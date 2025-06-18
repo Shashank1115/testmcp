@@ -24,6 +24,12 @@ from playwright.sync_api import sync_playwright
 # # For temporary debug purposes only:
 # # For temporary debug purposes only:
 # creds_path = r"C:\Users\shash\Desktop\mcp\newmcp\server\scripts\credentials.json"
+from server.vlm_handler import generate_caption
+from transformers import DetrImageProcessor, DetrForObjectDetection
+from PIL import Image, ImageDraw
+import torch
+detr_processor = DetrImageProcessor.from_pretrained("facebook/detr-resnet-50")
+detr_model = DetrForObjectDetection.from_pretrained("facebook/detr-resnet-50")
 
 
 # if not os.path.exists(creds_path):
@@ -37,6 +43,9 @@ load_dotenv()
 
 
 def run_tool(tool_name, context):
+    print(f"[DEBUG] run_tool called with tool_name: {tool_name}")
+    print(f"[DEBUG] context received: {context}")
+    
     tool_map = {
         "text_generation": text_generation,
         "email_sender": send_email,
@@ -45,14 +54,116 @@ def run_tool(tool_name, context):
         "take_screenshot": take_screenshot,
         "calendar_event_creator": create_event,
         "webagent": web_search_tool,
-        
-        # Add other tools here like "write_file": write_file, etc.
+        "image_caption": image_caption_tool,
+        "image_label_tool": image_label_tool,
     }
+
     func = tool_map.get(tool_name)
     if func:
+        print(f"[DEBUG] Found function for tool: {tool_name}")
         return func(context)
     else:
+        print(f"[ERROR] Unknown tool: {tool_name}")
         return f"[Error] Unknown tool: {tool_name}"
+# def image_label_tool(context):
+#     print("[DEBUG] image_label_tool invoked")
+
+#     raw_path = context.get("image_path")
+#     base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..", "server"))
+#     image_path = os.path.normpath(os.path.join(base_dir, raw_path))
+
+#     if not os.path.exists(image_path):
+#         return f"[Error] Image file not found: {image_path}"
+
+#     image = Image.open(image_path).convert("RGB")
+
+#     inputs = detr_processor(images=image, return_tensors="pt")
+#     outputs = detr_model(**inputs)
+
+#     target_sizes = torch.tensor([image.size[::-1]])
+#     results = detr_processor.post_process_object_detection(outputs, threshold=0.9, target_sizes=target_sizes)[0]
+
+#     draw = ImageDraw.Draw(image)
+
+#     for score, label, box in zip(results["scores"], results["labels"], results["boxes"]):
+#         box = [round(i, 2) for i in box.tolist()]
+#         draw.rectangle(box, outline="green", width=3)
+#         draw.text((box[0], box[1]), detr_model.config.id2label[label.item()], fill="green")
+
+#     output_path = os.path.splitext(image_path)[0] + "_boxed.jpg"
+#     image.save(output_path)
+
+#     print(f"[VLM] Saved labeled image to: {output_path}")
+#     return f"[Success] Labeled image saved at: {output_path}"
+def image_label_tool(context):
+    print("[DEBUG] image_label_tool invoked")
+
+    raw_path = context.get("image_path")
+    base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..", "server"))
+    image_path = os.path.normpath(os.path.join(base_dir, raw_path))
+
+    if not os.path.exists(image_path):
+        return f"[Error] Image file not found: {image_path}"
+
+    image = Image.open(image_path).convert("RGB")
+
+    inputs = detr_processor(images=image, return_tensors="pt")
+    outputs = detr_model(**inputs)
+
+    target_sizes = torch.tensor([image.size[::-1]])
+    results = detr_processor.post_process_object_detection(outputs, threshold=0.9, target_sizes=target_sizes)[0]
+
+    draw = ImageDraw.Draw(image)
+    label_lines = []
+
+    for score, label, box in zip(results["scores"], results["labels"], results["boxes"]):
+        if score < 0.3:
+            continue
+
+        x1, y1, x2, y2 = box.tolist()
+        x, y = round(x1), round(y1)
+        w, h = round(x2 - x1), round(y2 - y1)
+        class_id = label.item()
+        custom_label_id = 4  # Customize this as needed
+        flag1, flag2 = 0, 0
+
+        label_lines.append(f"{x},{y},{w},{h},{class_id},{custom_label_id},{flag1},{flag2}")
+        draw.rectangle([x1, y1, x2, y2], outline="green", width=3)
+        draw.text((x, y), detr_model.config.id2label[class_id], fill="green")
+
+    # Save boxed image
+    output_path = os.path.splitext(image_path)[0] + "_boxed.jpg"
+    image.save(output_path)
+
+    # Save label coordinates to .txt
+    label_txt_path = os.path.splitext(image_path)[0] + "_labels.txt"
+    with open(label_txt_path, "w") as f:
+        f.write("\n".join(label_lines))
+
+    print(f"[VLM] Saved labeled image to: {output_path}")
+    print(f"[VLM] Saved coordinates to: {label_txt_path}")
+    return f"[Success] Labeled image saved at: {output_path}, Coordinates at: {label_txt_path}"
+
+
+def image_caption_tool(context):
+    print("[DEBUG] image_caption_tool invoked")
+
+    raw_path = context.get("image_path") or "/images/download (1).jpeg"
+
+    # base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
+    base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..", "server"))
+
+    abs_image_path = os.path.normpath(os.path.join(base_dir, raw_path))
+
+    print(f"[DEBUG] Resolved absolute image path: {abs_image_path}")
+    print(f"[DEBUG] Current Working Directory: {os.getcwd()}")
+
+    if not os.path.exists(abs_image_path):
+        print(f"[ERROR] Image path does not exist: {abs_image_path}")
+        return f"[Error] Image file not found: {abs_image_path}"
+
+    return generate_caption(abs_image_path)
+
 
 
 def text_generation(context):

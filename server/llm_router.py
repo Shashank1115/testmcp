@@ -4,9 +4,8 @@ import os
 import json
 import requests
 from dotenv import load_dotenv
-from fastapi import FastAPI
+from fastapi import APIRouter
 from pydantic import BaseModel
-from fastapi.middleware.cors import CORSMiddleware
 import uvicorn
 
 load_dotenv()
@@ -19,17 +18,9 @@ HEADERS = {
     "Content-Type": "application/json"
 }
 
-app = FastAPI()
 
-# Enable CORS for all origins (adjust in production)
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["*"],
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
 
+router = APIRouter()
 # Input schema
 class TaskRequest(BaseModel):
     user_input: str
@@ -63,7 +54,12 @@ You are an intelligent task planner.
 
 - Break down the following high-level task into a strict JSON object with the following schema:
 - ONLY respond with the JSON object. Do NOT use markdown, comments, or extra explanation. Use only double quotes.
-
+- If the task involves describing, captioning, or analyzing an image (e.g., "what is in image.jpg", "describe the image"), use:
+    - tool: image_caption
+    - agent: VisionAgent
+    - Also include: "image_path": "path/to/image.jpg"
+- when asked for label use image_label_tool
+- whenever draw boxes is used use image_label_tool
 
 {{
   "task": "overall task summary",
@@ -71,8 +67,9 @@ You are an intelligent task planner.
     {{
       "step": "step number",
       "description": "what the step does",
-      "agent": "TextAgent | EmailAgent | CalendarAgent | FileAgent | WebAgent",
-      "tool": "text_generation | email_sender | calendar_event_creator | file_writer | web_search"
+      VALID_AGENTS = {"TextAgent", "CalendarAgent", "EmailAgent", "FileAgent", "WebAgent", "VisionAgent"}
+      "tool": "text_generation | email_sender | calendar_event_creator | file_writer | web_search | image_caption"
+
     }}
   ]
 }}
@@ -131,7 +128,7 @@ AGENT_HANDLERS = {
 
 # ----------- FASTAPI ROUTES ------------------
 
-@app.post("/plan")
+@router.post("/plan")
 async def get_plan(request: TaskRequest):
     try:
         task_plan_str = generate_task_plan(request.user_input)
@@ -147,11 +144,11 @@ async def get_plan(request: TaskRequest):
     except Exception as e:
         return {"error": str(e)}
 
-@app.post("/execute")
+@router.post("/execute")
 async def execute_plan(request: TaskRequest):
     """
     This endpoint generates the plan and then executes all subtasks by
-    dispatching to the appropriate agent handlers.
+    dispatching to the routerropriate agent handlers.
     """
     try:
         task_plan_str = generate_task_plan(request.user_input)
@@ -189,7 +186,7 @@ async def execute_plan(request: TaskRequest):
     except Exception as e:
         return {"error": str(e)}
 
-@app.post("/generate-text")
+@router.post("/generate-text")
 async def text_output(request: TextRequest):
     try:
         content = generate_text(request.prompt)
@@ -197,7 +194,7 @@ async def text_output(request: TextRequest):
     except Exception as e:
         return {"error": str(e)}
 
-@app.post("/execute_subtask")
+@router.post("/execute_subtask")
 async def execute_subtask(subtask: dict):
     agent = subtask.get("agent")
     handler = AGENT_HANDLERS.get(agent)
@@ -210,5 +207,5 @@ async def execute_subtask(subtask: dict):
 
 # ---------- LOCAL TESTING ---------------------
 
-if __name__ == "__main__":
-    uvicorn.run("llm_router:app", host="0.0.0.0", port=8000, reload=True)
+# if __name__ == "__main__":
+#     uvicorn.run("llm_router:app", host="0.0.0.0", port=8000, reload=True)

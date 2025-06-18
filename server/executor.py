@@ -3,13 +3,19 @@ import sys
 import os
 import requests
 import json
-
+from server.vlm_handler import generate_caption
 # Ensure project root is in path
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
 from server.scripts.tools_main import run_tool
 
 MCP_SERVER_URL = "http://localhost:9000/mcp/execute"
+def execute_task(task: dict):
+    task_type = task.get("type")
+
+    if task_type == "image_caption":
+        image_path = task.get("image_path")
+        return generate_caption(image_path)
 
 def run_executor(user_task):
     print(f"\n[EXECUTOR] Sending task: {user_task}")
