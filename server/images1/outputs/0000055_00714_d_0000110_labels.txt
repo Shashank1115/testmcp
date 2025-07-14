@@ -1,0 +1,8 @@
+826,326,38,76,1,"a photo of a man in a black shirt",0,0
+888,301,40,77,1,"a photo of a person with a green background",0,0
+838,6,76,58,3,"a photo of a car in the dark",0,0
+413,216,17,49,1,"a photo of a person with a red light on their face",0,0
+291,288,35,57,1,"a photo of a person in a dark room",0,0
+452,234,20,66,1,"a photo of a person with a black hat",0,0
+467,237,23,65,1,"a photo of a green square with the words ' the green square '",0,0
+489,344,27,84,1,"a photo of a black car in the dark",0,0

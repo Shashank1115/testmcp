@@ -1,0 +1,16 @@
+667,638,20,40,1,"a photo of a person skating on a skateboard",0,0
+1255,841,146,108,3,"a photo of a car parked in a parking",0,0
+1151,707,146,84,3,"a photo of a car parked in a parking",0,0
+1044,596,143,71,3,"a photo of a car parked in a parking",0,0
+747,532,89,83,3,"a photo of a car parked on the street",0,0
+802,825,167,104,3,"a photo of a white car parked in a parking",0,0
+780,457,90,72,3,"a photo of a white car on a road",0,0
+1006,572,124,66,3,"a photo of a car parked in a parking",0,0
+838,382,104,52,3,"a photo of a car parked in a parking",0,0
+595,509,112,65,3,"a photo of a police car and a police officer",0,0
+997,1007,142,73,3,"a photo of a police car",0,0
+1062,608,143,73,3,"a photo of a white car with a green box",0,0
+591,448,118,61,3,"a photo of the suspect ' s car",0,0
+998,540,116,64,3,"a photo of a white car with a green border",0,0
+857,875,167,111,3,"a photo of a parking lot with cars parked in it",0,0
+1148,705,144,85,3,"a photo of a white car with a green border",0,0

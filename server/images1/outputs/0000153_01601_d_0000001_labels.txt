@@ -1,0 +1,17 @@
+352,354,16,24,4,"a photo of a person walking down a street",0,0
+359,316,11,15,4,"a photo of a blury background with a blury background",0,0
+52,495,23,36,1,"a photo of a white cat on a black background",0,0
+686,415,13,32,1,"a photo of a person walking in the rain",0,0
+653,411,15,30,1,"a photo of a person walking on a sidewalk",0,0
+902,449,58,63,3,"a photo of a car with a red tail",0,0
+460,252,12,13,3,"a photo of a car with a blur effect",0,0
+420,262,12,14,4,"a photo of a person with a white shirt",0,0
+40,492,32,37,1,"a photo of a person in a green frame",0,0
+420,252,10,18,1,"a photo of a green and white sign",0,0
+353,347,14,25,1,"a photo of a green and white sign",0,0
+515,243,13,13,3,"a photo of a green object in the middle of a gray background",0,0
+43,509,32,26,4,"a photo of a man in a green frame",0,0
+652,424,16,22,4,"a photo of a person in a green screen",0,0
+574,353,13,21,1,"a photo of a person with a black and white background",0,0
+544,273,10,13,4,"a photo of a person walking down a street",0,0
+573,365,15,20,4,"a photo of a person in a green screen",0,0

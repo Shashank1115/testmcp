@@ -1,0 +1,13 @@
+309,252,26,61,1,"a photo of a man riding a bike",0,0
+16,383,41,86,1,"a photo of a man in a suit and tie",0,0
+332,202,46,31,2,"a photo of a man riding a bike",0,0
+666,248,69,36,2,"a photo of a bike in a room",0,0
+349,416,36,59,1,"a photo of a man in a suit and tie",0,0
+265,388,28,50,1,"a photo of a man with a beard and a beard",0,0
+72,127,59,24,28,"a photo of a person with an umbrella",0,0
+146,397,38,70,1,"a photo of a dog running in the dark",0,0
+480,461,27,75,1,"a photo of a black and white cat",0,0
+476,259,21,53,1,"a photo of a man in a suit and tie",0,0
+644,220,25,58,1,"a photo of a man walking down a street",0,0
+470,450,24,72,1,"a photo of a green square with a black background",0,0
+157,175,34,27,15,"a photo of a yellow chair",0,0

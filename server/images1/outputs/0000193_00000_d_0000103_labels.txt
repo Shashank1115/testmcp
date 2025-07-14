@@ -1,0 +1,28 @@
+557,434,18,31,1,"a photo of a man in a suit and tie",0,0
+703,447,24,33,1,"a photo of a dog laying on the ground",0,0
+174,314,16,21,1,"a photo of a person with a cell",0,0
+552,438,36,31,4,"a photo of a person in a chair",0,0
+811,380,15,18,1,"a photo of a person sitting on a chair",0,0
+939,233,21,17,3,"a photo of a white car with a blur effect",0,0
+881,415,39,27,4,"a photo of a white dog sitting on a red couch",0,0
+901,289,57,32,3,"a photo of a white car parked in a parking lot",0,0
+877,397,14,17,1,"a photo of a person in a white shirt",0,0
+341,272,13,14,4,"a photo of a blurry image of a car",0,0
+314,356,83,38,3,"a photo of a car driving down a street",0,0
+654,470,19,25,1,"a photo of a man sitting on a chair",0,0
+531,466,13,40,1,"a photo of a man in a white shirt and black pants",0,0
+482,263,8,17,1,"a photo of a green cross on a gray background",0,0
+206,310,76,39,8,"a photo of a white van with a green sign that says ` ` `",0,0
+904,397,14,23,1,"a photo of a green and black background with the words school",0,0
+734,392,21,24,1,"a photo of a person in a red hat",0,0
+645,478,34,28,4,"a photo of a person in a green frame",0,0
+706,287,66,27,3,"a photo of a car in the parking",0,0
+339,261,13,20,1,"a photo of a green chair with a dog on it",0,0
+919,397,17,29,1,"a photo of a green and black cat",0,0
+708,461,23,24,4,"a photo of a green and black cat",0,0
+890,398,15,21,1,"a photo of a man in a green background",0,0
+683,318,77,29,3,"a photo of a car with a red tail",0,0
+761,254,52,24,3,"a photo of a white van driving down a road",0,0
+616,267,16,17,1,"a photo of a green and black text that reads  ' i ' m '",0,0
+701,240,38,13,3,"a photo of a dog in the grass",0,0
+709,413,74,45,3,"a photo of a red car with the words ' top spot '",0,0

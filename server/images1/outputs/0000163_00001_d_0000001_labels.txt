@@ -1,0 +1,25 @@
+309,249,13,22,4,"a photo of a person with a pink hat",0,0
+453,264,10,21,1,"a photo of a person with a black and white face",0,0
+449,219,10,18,4,"a photo of a blury background with a blury effect",0,0
+340,228,13,25,1,"a photo of a person with a green leaf",0,0
+604,413,18,34,1,"a photo of a football player with a ball",0,0
+288,244,15,21,4,"a photo of a person on a motorcycle",0,0
+566,248,11,29,1,"a photo of a red car with green lights",0,0
+358,182,20,17,3,"a photo of a white car",0,0
+0,446,46,71,3,"a photo of a car that is on the ground",0,0
+336,156,18,16,3,"a photo of a white car",0,0
+475,145,17,15,3,"a photo of a white car with a blur effect",0,0
+452,264,12,23,1,"a photo of a man with a green background",0,0
+454,275,11,16,4,"a photo of a person in a square frame",0,0
+483,235,9,20,1,"a photo of a car driving down a street",0,0
+453,217,8,19,1,"a photo of a green and white square",0,0
+341,130,14,13,3,"a photo of a blurry image of a car",0,0
+602,426,21,29,4,"a photo of a person in a green frame",0,0
+568,246,12,30,1,"a photo of a green box with a red and white stripe",0,0
+286,232,14,24,1,"a photo of a green box with a white box on it",0,0
+748,437,133,85,3,"a photo of a car being towed by a truck",0,0
+524,232,38,24,3,"a photo of a car with the words ' don ' t '",0,0
+539,299,14,26,1,"a photo of a person in the middle of a room",0,0
+621,269,62,84,8,"a photo of a green truck with a green trailer",0,0
+537,311,16,24,4,"a photo of a green square with a white background",0,0
+649,364,67,61,3,"a photo of a white van parked in a parking",0,0

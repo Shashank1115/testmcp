@@ -1,0 +1,26 @@
+317,115,23,17,3,"a photo of a car with a blur effect",0,0
+624,460,23,38,4,"a photo of a red heart on a black background",0,0
+565,459,23,37,4,"a photo of a car in the middle of a street",0,0
+702,466,30,62,1,"a photo of a man in a white shirt and black pants",0,0
+624,442,23,51,1,"a photo of a person in a red shirt",0,0
+556,381,20,34,1,"a photo of a horse standing in the middle of a road",0,0
+849,361,78,68,3,"a photo of a car parked in a parking",0,0
+441,231,16,25,4,"a photo of a car driving down a road",0,0
+780,461,29,51,1,"a photo of a man in a wheelchair",0,0
+457,130,23,20,3,"a photo of a car with a blur effect",0,0
+416,177,27,29,3,"a photo of a white van",0,0
+527,182,36,30,3,"a photo of a car driving down a street",0,0
+205,214,21,18,4,"a photo of a blurry street with cars",0,0
+478,255,22,14,28,"a photo of a white flower on a gray background",0,0
+348,125,39,18,3,"a photo of a white car in a fog",0,0
+170,303,16,36,1,"a photo of a man in a white shirt",0,0
+449,354,67,73,3,"a photo of a car driving on a road",0,0
+554,366,29,25,28,"a photo of a white cloud in the sky",0,0
+587,515,30,25,1,"a photo of a man in a white shirt",0,0
+209,279,25,16,28,"a photo of a white hat on a gray background",0,0
+809,479,22,57,1,"a photo of a woman in a pink dress",0,0
+441,219,14,26,1,"a photo of a person in a green box",0,0
+468,175,28,25,3,"a photo of a car with the word ' ' ' written on it",0,0
+492,302,17,27,1,"a photo of a person sitting at a table",0,0
+568,441,21,49,1,"a photo of a person walking down a street",0,0
+543,295,67,51,3,"a photo of a toy car",0,0

@@ -1,0 +1,9 @@
+551,129,12,29,1,"a photo of a person in a white shirt",0,0
+242,74,65,35,3,"a photo of a white van driving down a road",0,0
+1036,237,114,98,8,"a photo of a man in a suit and tie",0,0
+243,74,66,36,8,"a photo of a white car with the words ' we do ' t '",0,0
+969,110,102,52,8,"a photo of a blue truck with a white trailer",0,0
+387,169,275,137,8,"a photo of a truck with a bunch of cows in the back",0,0
+376,196,11,29,1,"a photo of a green and white background",0,0
+695,198,15,33,1,"a photo of a man in black pants and a white shirt",0,0
+847,167,131,72,8,"a photo of a truck with a cow in the back",0,0

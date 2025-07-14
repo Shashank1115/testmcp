@@ -1,0 +1,5 @@
+613,436,17,38,10,"a photo of a camera with a blur effect",0,0
+485,427,15,34,10,"a photo of a man with a camera",0,0
+509,231,19,22,3,"a photo of a pink car with a blur effect",0,0
+516,198,8,15,1,"a photo of a person with a hat on",0,0
+531,386,12,22,1,"a photo of a cloudy sky with a few clouds",0,0

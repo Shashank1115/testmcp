@@ -1,0 +1,16 @@
+139,370,9,23,1,"a photo of a person standing in the middle of a street",0,0
+431,333,8,20,1,"a photo of a black and white photo",0,0
+198,262,34,33,8,"a photo of a man in a suit and tie",0,0
+639,443,15,33,1,"a photo of a person standing in the fog",0,0
+509,297,8,16,1,"a photo of a car in a parking",0,0
+519,339,9,21,1,"a photo of a green square with a white background",0,0
+321,325,30,23,3,"a photo of a red car",0,0
+33,480,71,60,8,"a photo of a box on the street",0,0
+173,522,19,18,1,"a photo of a man in a suit and tie",0,0
+364,338,37,31,3,"a photo of a white van",0,0
+256,339,57,35,8,"a photo of a car with a green light",0,0
+215,367,80,36,8,"a photo of a green car with a green sign",0,0
+411,395,57,49,3,"a photo of a car on a road",0,0
+547,311,23,23,3,"a photo of a white car with a black hood",0,0
+656,514,20,26,1,"a photo of a man in a white shirt",0,0
+547,409,14,31,1,"a photo of a car with a yellow light on it",0,0

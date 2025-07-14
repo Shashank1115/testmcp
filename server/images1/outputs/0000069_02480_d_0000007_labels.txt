@@ -1,0 +1,27 @@
+289,258,37,82,1,"a photo of a person on a skateboard",0,0
+669,168,47,22,3,"a photo of a woman in a white dress",0,0
+338,221,30,81,1,"a photo of a man and woman dancing",0,0
+1060,300,48,100,1,"a photo of a man in a pink shirt",0,0
+1082,140,28,18,3,"a photo of a blurry image of a car",0,0
+1049,643,85,122,1,"a photo of a man sitting on a bench",0,0
+1288,198,46,29,3,"a photo of a man in a suit and tie",0,0
+836,204,49,22,3,"a photo of a woman in a white dress",0,0
+1175,197,78,28,3,"a photo of a car parked in a parking lot",0,0
+416,241,27,80,1,"a photo of a woman in a green shirt and red pants",0,0
+5,186,50,32,2,"a photo of a dog in a room",0,0
+1042,150,27,22,3,"a photo of a tree in the middle of a road",0,0
+1094,142,31,19,3,"a photo of a green and white background",0,0
+1102,139,30,18,3,"a photo of a green and white background",0,0
+511,250,44,86,1,"a photo of a man skating on a skateboard",0,0
+1055,150,28,20,3,"a photo of a green sign that says go green",0,0
+477,152,59,25,3,"a photo of a white van parked in a parking",0,0
+1061,145,27,18,3,"a photo of a green cross on a gray background",0,0
+588,176,58,26,3,"a photo of a building with a lot of windows",0,0
+459,158,57,27,3,"a photo of a woman in a pink dress",0,0
+191,213,41,81,1,"a photo of a young boy walking in the street",0,0
+839,698,364,66,15,"a photo of a man in a black shirt and white pants",0,0
+908,236,35,75,1,"a photo of a man and a woman dancing",0,0
+1057,246,33,69,1,"a photo of a man and woman in a pink dress",0,0
+928,283,45,99,1,"a photo of a woman in a pink shirt and green pants",0,0
+743,199,43,18,3,"a photo of a car with a green light on it",0,0
+788,665,63,99,1,"a photo of a man with a green square",0,0

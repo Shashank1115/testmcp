@@ -1,0 +1,17 @@
+772,637,74,54,77,"a photo of a car that was involved in a crash on the corner of a street",0,0
+753,910,73,39,77,"a photo of a car on a road",0,0
+679,633,52,47,77,"a photo of a woman in a pink shirt",0,0
+757,827,75,40,77,"a photo of a car that was involved in a crash on the i - 95 near the intersection of route 66 and",0,0
+558,960,71,66,77,"a photo of a car on a street",0,0
+768,388,36,59,77,"a photo of a car in the parking",0,0
+610,436,38,65,77,"a photo of a car in a parking",0,0
+717,573,70,46,77,"a photo of a car on a road",0,0
+899,779,37,68,77,"a photo of a red car parked in a parking",0,0
+671,972,43,69,77,"a photo of a car on a road",0,0
+633,698,43,73,77,"a photo of a car in the parking",0,0
+577,283,40,67,77,"a photo of a car being towed by a tow truck",0,0
+653,326,44,71,77,"a photo of a car on the side of a road",0,0
+853,692,40,68,77,"a photo of a car in a parking",0,0
+852,532,48,63,77,"a photo of a car being towed on the road",0,0
+1228,593,52,77,77,"a photo of a white car on a road",0,0
+885,939,39,76,77,"a photo of a car on a road",0,0

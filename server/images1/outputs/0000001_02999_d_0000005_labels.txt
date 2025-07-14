@@ -1,0 +1,11 @@
+706,340,99,70,3,"a photo of a car parked in a parking",0,0
+881,709,59,101,3,"a photo of a car driving down a road",0,0
+593,506,59,42,3,"a photo of a motorcycle with a helmet on",0,0
+770,265,39,40,3,"a photo of a car in the middle of a parking lot",0,0
+573,448,17,38,1,"a photo of a man walking down a street",0,0
+860,204,16,30,1,"a photo of a car with a light on it",0,0
+541,608,53,33,28,"a photo of a car that is parked in the street",0,0
+529,622,51,34,28,"a photo of a toilet with a green square",0,0
+751,319,73,56,3,"a photo of a white car with a green cross",0,0
+596,358,116,57,3,"a photo of a car with a green box on the front",0,0
+477,436,51,22,28,"a photo of a purple umbrella",0,0

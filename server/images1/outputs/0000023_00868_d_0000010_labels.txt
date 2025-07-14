@@ -1,0 +1,14 @@
+195,351,82,89,2,"a photo of a man riding a bike",0,0
+471,185,22,59,1,"a photo of a person walking down a street",0,0
+324,280,32,87,1,"a photo of two men walking down a street",0,0
+343,279,26,93,1,"a photo of a person in a white shirt",0,0
+14,367,71,86,1,"a photo of a man and a woman riding a bike",0,0
+173,344,30,38,2,"a photo of a cross with the word ' faith '",0,0
+192,316,40,86,1,"a photo of a man walking down the street",0,0
+450,179,23,62,1,"a photo of a man walking down a street",0,0
+186,293,30,59,1,"a photo of a person in a room with a green screen",0,0
+2,407,105,69,2,"a photo of a man riding a trike trike",0,0
+568,120,16,50,1,"a photo of a person walking down a street",0,0
+500,181,19,59,1,"a photo of a bear in the snow",0,0
+588,119,18,49,1,"a photo of a man walking down the street",0,0
+178,292,26,60,1,"a photo of a person in a green frame",0,0

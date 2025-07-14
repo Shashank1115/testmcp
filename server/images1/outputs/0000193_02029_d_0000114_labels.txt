@@ -1,0 +1,18 @@
+764,311,163,61,8,"a photo of a truck with a bunch of people on it",0,0
+765,447,64,36,4,"a photo of a group of people in a room",0,0
+680,497,28,35,1,"a photo of a man in a white shirt and black pants",0,0
+896,428,29,23,4,"a photo of a group of people standing in a room",0,0
+378,308,40,44,3,"a photo of a white car on a road",0,0
+19,313,20,23,4,"a photo of a car with a blur effect",0,0
+384,391,52,71,3,"a photo of a white car driving on a road",0,0
+82,338,23,35,1,"a photo of a man in a suit and tie",0,0
+409,160,16,16,10,"a photo of a green and red background",0,0
+434,471,45,62,3,"a photo of a blue car driving down the road",0,0
+372,227,31,28,3,"a photo of a car with a blur effect",0,0
+419,243,31,27,3,"a photo of a red car",0,0
+901,418,20,29,1,"a photo of a green and white sign that says  ' the green is the color of the green '",0,0
+675,504,37,33,4,"a photo of a person in a green frame",0,0
+570,304,15,26,1,"a photo of a person with a pink shirt",0,0
+84,356,28,31,4,"a photo of a person in a green square",0,0
+430,151,14,20,10,"a photo of a green light on a street",0,0
+623,303,12,30,1,"a photo of a person with a green jacket",0,0

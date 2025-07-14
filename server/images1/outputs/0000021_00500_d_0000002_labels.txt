@@ -1,0 +1,6 @@
+473,250,17,51,1,"a photo of a person walking down a street",0,0
+311,367,75,59,4,"a photo of a yellow bike with a blue and white helmet",0,0
+0,388,76,87,8,"a photo of a red truck driving down a street",0,0
+488,253,16,49,1,"a photo of a dog in a green frame",0,0
+902,199,9,20,1,"a photo of a soccer field with a ball",0,0
+925,204,9,19,1,"a photo of a green field with a black hole",0,0

@@ -1,0 +1,30 @@
+209,449,26,36,1,"a photo of a man sitting on a bench",0,0
+410,272,48,32,3,"a photo of a red car",0,0
+229,112,13,13,10,"a photo of a green light in the dark",0,0
+217,115,10,11,10,"a photo of a green light in the dark",0,0
+514,322,15,25,1,"a photo of a person with a pink background",0,0
+813,241,68,26,3,"a photo of a white car in a parking lot",0,0
+0,403,47,44,3,"a photo of a white flower on a black background",0,0
+395,383,21,32,1,"a photo of a woman in a pink dress",0,0
+204,460,45,30,4,"a photo of a man in a wheelchair",0,0
+887,233,61,26,3,"a photo of a car with the words ' super ' in green",0,0
+746,243,63,28,3,"a photo of a yellow car on the road",0,0
+213,197,38,26,3,"a photo of a white car",0,0
+336,287,12,21,4,"a photo of a person walking on a foggy day",0,0
+791,223,60,26,3,"a photo of a car with the words  ' the best car in the world '",0,0
+88,245,24,20,4,"a photo of a car with a blur effect",0,0
+516,327,18,25,4,"a photo of a green frame with a black and white dog",0,0
+254,107,12,16,10,"a photo of a green and black background",0,0
+247,415,43,27,4,"a photo of a woman in a pink dress on a motorcycle",0,0
+279,239,48,35,3,"a photo of a white car",0,0
+225,289,34,26,4,"a photo of a man in a suit and tie",0,0
+253,406,20,33,1,"a photo of a man with a green arrow",0,0
+871,198,12,26,10,"a photo of a blurry image of a car",0,0
+498,461,28,43,1,"a photo of a woman in a green dress",0,0
+153,272,31,21,4,"a photo of a person riding a bike",0,0
+334,277,13,26,1,"a photo of a green box with a white cloud in the background",0,0
+917,328,39,24,4,"a photo of a man in a black suit",0,0
+462,273,22,21,4,"a photo of a green and white background",0,0
+702,231,70,29,3,"a photo of a white car with a green box over the top",0,0
+547,397,106,62,3,"a photo of a car on the street",0,0
+513,223,18,31,1,"a photo of a person walking on a street",0,0

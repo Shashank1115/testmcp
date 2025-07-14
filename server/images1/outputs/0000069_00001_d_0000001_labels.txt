@@ -1,0 +1,26 @@
+134,452,49,75,1,"a photo of a young boy playing with a ball",0,0
+782,317,54,134,1,"a photo of a man and a woman walking down a street",0,0
+1154,351,80,131,1,"a photo of a group of people walking down a street",0,0
+1124,420,28,17,41,"a photo of a green apple on a gray background",0,0
+171,72,30,78,1,"a photo of a group of people standing in a parking",0,0
+1068,76,42,29,2,"a photo of a man on a bike",0,0
+1128,369,32,65,1,"a photo of a young boy playing tennis",0,0
+1291,104,39,53,1,"a photo of a person on a bike",0,0
+980,71,41,30,2,"a photo of a pink tri tri tri tri tri tri tri tri tri tri tri tri tri tri tri tri tri tri",0,0
+1179,71,28,56,1,"a photo of a woman in a white dress",0,0
+151,504,31,24,41,"a photo of a black cat with a green ribbon around its neck",0,0
+742,54,28,28,2,"a photo of a man on a bike",0,0
+730,374,56,168,1,"a photo of a man in a blue shirt and black pants",0,0
+158,75,30,76,1,"a photo of a woman doing a squat exercise",0,0
+1043,75,48,31,2,"a photo of a car being towed by a truck",0,0
+769,402,33,55,1,"a photo of a man in a suit and tie",0,0
+62,368,69,170,1,"a photo of a man running on the beach",0,0
+384,79,28,74,1,"a photo of a man in a white shirt and black pants",0,0
+164,333,52,117,1,"a photo of a person on a skateboard",0,0
+811,212,35,97,1,"a photo of a woman and a child",0,0
+256,37,40,29,2,"a photo of a dog on a leash",0,0
+1264,126,64,39,2,"a photo of a person riding a motorcycle",0,0
+960,199,55,103,1,"a photo of a man walking on a sidewalk",0,0
+1194,429,65,159,1,"a photo of a man standing on a skateboard",0,0
+700,0,179,31,28,"a photo of a yellow umbrella with a red umbrella",0,0
+923,335,46,126,1,"a photo of a person walking on a sidewalk",0,0

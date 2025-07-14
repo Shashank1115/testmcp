@@ -1,0 +1,7 @@
+692,236,28,55,1,"a photo of a man playing basketball",0,0
+664,443,36,75,1,"a photo of a man playing basketball",0,0
+373,193,18,52,1,"a photo of a man in a green shirt",0,0
+576,256,19,54,1,"a photo of a man in a blue shirt and white shorts",0,0
+652,228,28,57,1,"a photo of a man in a blue shirt and white pants",0,0
+501,201,16,49,1,"a photo of a man in a white shirt and black pants",0,0
+551,273,29,72,1,"a photo of a man in a red shirt and green shorts",0,0

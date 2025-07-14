@@ -1,0 +1,4 @@
+648,40,45,74,27,"a photo of a man in a santa hat",0,0
+16,37,110,123,1,"a photo of a man sitting on a bench",0,0
+4,48,550,288,3,"a photo of a car with a man in the background",0,0
+651,12,54,174,1,"a photo of a child walking down a sidewalk",0,0

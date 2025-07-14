@@ -1,0 +1,13 @@
+536,631,135,96,3,"a photo of a parking lot with cars parked in it",0,0
+784,751,131,120,3,"a photo of two cars parked in a parking lot",0,0
+1174,799,155,103,3,"a photo of a car with a red blanket on it",0,0
+1078,622,108,93,3,"a photo of a car parked in a parking lot",0,0
+712,717,131,118,3,"a photo of a parking lot with cars parked in it",0,0
+597,448,110,68,3,"a photo of a car parked in a parking",0,0
+705,474,115,81,3,"a photo of a car parked on the street",0,0
+1213,490,86,73,3,"a photo of two police cars",0,0
+618,822,139,132,3,"a photo of a car parked in a parking",0,0
+502,743,130,100,3,"a photo of a parking lot with cars parked in it",0,0
+992,810,132,140,3,"a photo of a parking lot with cars parked in it",0,0
+1079,449,94,83,3,"a photo of a car parked in a parking",0,0
+1007,583,112,94,3,"a photo of a parking lot with cars parked in it",0,0

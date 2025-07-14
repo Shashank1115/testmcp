@@ -1,0 +1,15 @@
+168,462,70,70,8,"a photo of a police car in the parking",0,0
+421,322,42,37,8,"a photo of a car driving down a road",0,0
+528,424,12,30,1,"a photo of a blur background with a blur effect",0,0
+38,463,15,32,1,"a photo of a person in the dark",0,0
+154,510,16,30,1,"a photo of a green and purple square",0,0
+273,355,51,44,3,"a photo of a white car parked in a parking",0,0
+328,497,17,38,1,"a photo of a blur background with a blur effect",0,0
+360,271,35,26,3,"a photo of a car driving down a street",0,0
+517,299,25,24,3,"a photo of a dog with a black and white face",0,0
+509,260,22,22,3,"a photo of a car with the word ' green ' in the middle",0,0
+230,398,58,58,3,"a photo of a car in the middle of a parking lot",0,0
+169,462,70,71,6,"a photo of a white van parked in a parking lot",0,0
+420,322,42,36,3,"a photo of a car with the words ' the green '",0,0
+525,337,35,29,3,"a photo of a man in a suit and tie",0,0
+330,425,17,33,1,"a photo of a car with a blur effect",0,0

@@ -1,0 +1,14 @@
+339,703,144,61,3,"a photo of a car driving down a road",0,0
+731,318,80,37,3,"a photo of a white car driving down a street",0,0
+965,294,33,17,3,"a photo of a pink light in the middle of a street",0,0
+922,669,138,76,3,"a photo of a car driving down a street",0,0
+903,574,115,53,3,"a photo of a van on the road",0,0
+666,90,38,22,3,"a photo of a man in a suit and tie",0,0
+958,548,90,44,3,"a photo of a car with the words ' ' ' ' ' ' ' ' ' ' ' ' ' ' '",0,0
+906,613,116,49,3,"a photo of a car with a green square",0,0
+617,163,44,30,3,"a photo of a car with a blur effect",0,0
+600,732,60,33,3,"a photo of a man in a suit and tie",0,0
+628,139,48,26,3,"a photo of a white van with a green arrow on the side",0,0
+384,654,121,56,3,"a photo of a car that is parked in a parking lot",0,0
+889,352,103,57,3,"a photo of a van on a highway",0,0
+982,325,87,42,3,"a photo of a car in a garage",0,0

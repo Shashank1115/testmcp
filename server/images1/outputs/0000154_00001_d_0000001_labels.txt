@@ -1,0 +1,20 @@
+456,233,22,20,3,"a photo of a white van",0,0
+233,265,29,23,3,"a photo of a cross on a black and white background",0,0
+128,365,17,25,1,"a photo of a person in a red hat",0,0
+103,237,50,18,3,"a photo of a white car on a foggy day",0,0
+669,419,21,38,1,"a photo of a man in a white shirt",0,0
+374,284,10,19,1,"a photo of a car with a blur effect",0,0
+408,236,10,14,4,"a photo of a white car with a black and white background",0,0
+115,372,43,28,4,"a photo of a person riding a motorcycle",0,0
+205,277,34,33,3,"a photo of a car with a green arrow in the middle",0,0
+110,284,58,37,3,"a photo of a police car and a police van",0,0
+374,291,10,18,4,"a photo of a green square with a white square",0,0
+198,347,91,40,3,"a photo of a car with the words  ` ` '",0,0
+146,293,63,40,3,"a photo of a van parked in a parking",0,0
+559,236,11,17,1,"a photo of a car with a green sign",0,0
+31,243,33,17,3,"a photo of a white car with a red tail",0,0
+204,293,14,32,1,"a photo of a green cross",0,0
+669,440,20,29,4,"a photo of a person in a room",0,0
+573,213,26,18,3,"a photo of a car in the middle of a street",0,0
+527,346,44,42,3,"a photo of a car in a parking lot",0,0
+527,344,44,44,8,"a photo of a car with the words prodot",0,0

@@ -1,0 +1,10 @@
+588,260,83,152,77,"a photo of a car on a road",0,0
+942,557,218,100,3,"a photo of a car parked in a parking",0,0
+962,368,189,100,3,"a photo of a white car parked on a street",0,0
+211,185,101,168,3,"a photo of a car parked in a parking",0,0
+337,590,111,173,14,"a photo of a white car parked on a street",0,0
+5,172,108,107,3,"a photo of a car that was involved in a crash on the i - 95 near the intersection of route 1 and",0,0
+875,695,250,70,3,"a photo of a car with a blue paint job",0,0
+89,185,100,74,3,"a photo of a car with a green light",0,0
+788,215,154,77,3,"a photo of a car parked in a parking",0,0
+951,260,183,97,3,"a photo of a car parked on a street",0,0

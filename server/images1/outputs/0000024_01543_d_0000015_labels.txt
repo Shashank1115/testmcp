@@ -1,0 +1,8 @@
+43,234,53,22,28,"a photo of a dog with a black and white face",0,0
+199,247,22,59,1,"a photo of a man in a white shirt and black pants",0,0
+754,270,53,32,15,"a photo of a herd of deer in the wild",0,0
+42,239,42,58,1,"a photo of a bear walking across a road",0,0
+146,263,21,37,1,"a photo of a baseball player in the field",0,0
+617,258,23,41,1,"a photo of a person sitting on a bench",0,0
+115,255,19,44,1,"a photo of a person standing in the grass",0,0
+545,248,31,56,1,"a photo of a woman in a white dress",0,0

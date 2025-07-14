@@ -1,0 +1,12 @@
+135,261,78,43,2,"a photo of a woman riding a bike",0,0
+371,207,47,92,1,"a photo of a woman walking down the street",0,0
+636,170,29,28,1,"a photo of a dog running on a leash",0,0
+320,202,46,93,1,"a photo of a person walking a dog",0,0
+640,147,20,33,1,"a photo of a football field with a green field",0,0
+22,242,61,112,1,"a photo of a person on a skateboard",0,0
+171,249,24,49,1,"a photo of a woman in a white dress",0,0
+222,201,46,66,1,"a photo of a man in a blue shirt and a woman in a white dress",0,0
+217,240,73,37,2,"a photo of a woman in a blue dress",0,0
+145,216,46,86,1,"a photo of a person riding a bike",0,0
+618,153,23,42,1,"a photo of a green cross on a street",0,0
+525,185,42,32,18,"a photo of a dog running on a field",0,0

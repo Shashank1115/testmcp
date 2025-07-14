@@ -1,0 +1,11 @@
+465,165,167,75,3,"a photo of a car driving down a street",0,0
+483,342,162,84,3,"a photo of a van driving down a highway",0,0
+1069,9,151,68,3,"a photo of a car on a road",0,0
+884,16,78,113,3,"a photo of a car on the road",0,0
+399,435,197,84,3,"a photo of a car on a street",0,0
+348,629,71,60,33,"a photo of a woman in a red dress",0,0
+1114,139,130,73,3,"a photo of a car parked in a parking",0,0
+799,16,69,107,3,"a photo of a car driving down a road",0,0
+460,49,170,77,3,"a photo of a car on the street",0,0
+463,247,182,79,3,"a photo of a car parked in a parking",0,0
+1095,67,153,71,3,"a photo of a car in a parking",0,0

@@ -1,0 +1,4 @@
+260,219,86,204,1,"a photo of a person walking down a street",0,0
+174,357,136,262,1,"a photo of a woman walking down a street",0,0
+271,255,64,74,27,"a photo of a woman in a hospital gown",0,0
+946,44,414,325,8,"a photo of a truck driving down a road",0,0

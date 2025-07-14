@@ -1,0 +1,16 @@
+445,381,43,44,3,"a photo of a car driving down a street",0,0
+228,369,41,35,3,"a photo of a car in the dark",0,0
+595,401,12,32,1,"a photo of a blury background with a blury effect",0,0
+592,408,12,31,1,"a photo of a green square with a white background",0,0
+5,337,39,24,3,"a photo of a cloud in the sky",0,0
+274,476,33,63,3,"a photo of a man in a suit and tie",0,0
+319,334,39,42,3,"a photo of a white van parked on the side of a road",0,0
+384,243,32,22,3,"a photo of a blurry image of a person",0,0
+298,363,51,53,3,"a photo of a white car parked in a parking",0,0
+518,79,10,15,10,"a photo of a blur background with a blur effect",0,0
+576,403,12,34,1,"a photo of a person with a cell",0,0
+583,400,12,34,1,"a photo of a green frame with the word fe",0,0
+373,444,56,90,8,"a photo of a car with the words ' ' ' ' ' ' ' ' ' ' ' ' ' ' '",0,0
+546,290,33,28,8,"a photo of a white van driving down a road",0,0
+566,399,13,36,1,"a photo of a green chair",0,0
+515,80,10,16,10,"a photo of a green frame with a pink background",0,0

@@ -1,0 +1,11 @@
+462,344,41,43,3,"a photo of a white van",0,0
+676,400,31,28,3,"a photo of a red car in a fog",0,0
+615,328,10,20,1,"a photo of a person in a black and white photo",0,0
+402,293,14,32,1,"a photo of a car in the fog",0,0
+613,338,12,16,4,"a photo of a car in a green square",0,0
+412,394,44,51,3,"a photo of a white car driving down a road",0,0
+531,247,15,12,3,"a photo of a car with a blur effect",0,0
+383,349,11,24,1,"a photo of a blury background with a blury background",0,0
+526,299,48,63,6,"a photo of a pink truck driving down a road",0,0
+443,302,24,25,3,"a photo of a car with the words ' the best '",0,0
+583,286,11,12,4,"a photo of a person with a cell",0,0

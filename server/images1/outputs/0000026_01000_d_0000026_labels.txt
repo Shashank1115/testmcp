@@ -1,0 +1,11 @@
+512,83,157,74,3,"a photo of a car parked in a parking",0,0
+58,42,156,81,3,"a photo of the suspect ' s car",0,0
+953,546,180,82,3,"a photo of a car on the road",0,0
+50,259,181,91,3,"a photo of a red car parked in a parking",0,0
+503,11,145,77,3,"a photo of a car with the words ' ' ' ' ' ' ' ' ' ' ' ' ' ' '",0,0
+514,149,166,76,3,"a photo of a car with a green line on the side",0,0
+15,0,174,68,3,"a photo of a white car parked in a parking",0,0
+34,371,190,89,3,"a photo of a car parked on a road",0,0
+848,226,155,73,3,"a photo of a car parked in a parking",0,0
+533,348,210,102,8,"a photo of a police car and a police car",0,0
+569,588,204,107,3,"a photo of a car parked in a parking",0,0

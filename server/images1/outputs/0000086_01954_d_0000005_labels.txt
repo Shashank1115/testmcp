@@ -1,0 +1,4 @@
+528,280,17,20,43,"a photo of a heart with a pink background",0,0
+623,484,27,16,62,"a photo of a red background with a white square",0,0
+630,489,23,28,62,"a photo of a red and green sign that says  ' the red and green '",0,0
+513,278,20,56,1,"a photo of a man in a white shirt and black pants",0,0

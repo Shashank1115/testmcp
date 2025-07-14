@@ -1,0 +1,14 @@
+16,458,30,23,2,"a photo of a man in a suit and tie",0,0
+465,354,10,24,1,"a photo of a yellow car with a blur effect",0,0
+466,363,11,19,4,"a photo of a cake on a green frame",0,0
+507,277,10,17,1,"a photo of a car with a blur effect",0,0
+312,328,15,21,4,"a photo of a blurry image of a car",0,0
+15,467,16,36,1,"a photo of a green screen with a black background",0,0
+311,322,15,20,1,"a photo of a green square with the word p",0,0
+350,314,10,15,4,"a photo of a green and black background",0,0
+454,226,12,15,3,"a photo of a blury background with a blury effect",0,0
+234,412,16,37,1,"a photo of a man in a white shirt",0,0
+263,386,13,29,1,"a photo of a car with a green light",0,0
+481,262,15,14,3,"a photo of a car with a blur effect",0,0
+554,319,8,17,1,"a photo of a person with a red shirt",0,0
+506,315,22,20,3,"a photo of a green sign that says  ' no out '",0,0

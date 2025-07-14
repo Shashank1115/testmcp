@@ -1,0 +1,17 @@
+189,507,24,33,1,"a photo of a man in a pink shirt",0,0
+600,396,13,22,1,"a photo of a man in a black shirt",0,0
+565,363,13,23,1,"a photo of a person sitting on a couch",0,0
+348,297,28,24,3,"a photo of a white van",0,0
+400,295,9,19,1,"a photo of a green car with a white background",0,0
+341,361,12,28,1,"a photo of a person with a red umbrella",0,0
+566,377,14,20,4,"a photo of a chair in a room",0,0
+123,470,16,23,1,"a photo of a car driving down a road",0,0
+343,374,10,20,2,"a photo of a person walking down the street",0,0
+338,274,25,20,3,"a photo of a man in a suit and tie",0,0
+263,364,57,48,3,"a photo of a car driving down a street",0,0
+565,364,14,24,1,"a photo of a green background with a white and black image",0,0
+312,286,11,31,1,"a photo of a person with a cell",0,0
+600,413,15,22,4,"a photo of a green square with a white square",0,0
+488,257,17,15,3,"a photo of a blury background with a blury background",0,0
+431,267,9,12,4,"a photo of a person with a green light",0,0
+479,289,26,25,3,"a photo of a car with the word ' car ' in green",0,0

@@ -1,0 +1,7 @@
+845,589,19,43,1,"a photo of a person riding a bike",0,0
+874,1008,22,68,1,"a photo of a man in a white shirt and black pants",0,0
+790,994,25,57,1,"a photo of a man sitting on a chair",0,0
+1195,171,92,62,8,"a photo of a crowd of people walking down a street",0,0
+845,900,26,59,1,"a photo of a man in a white shirt and black pants",0,0
+965,381,105,99,8,"a photo of a market with people walking around",0,0
+854,572,19,44,1,"a photo of a person riding a bike",0,0

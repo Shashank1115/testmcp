@@ -1,0 +1,12 @@
+330,197,34,87,1,"a photo of a person walking down a street",0,0
+193,218,74,44,2,"a photo of a woman in a stroller",0,0
+213,194,21,22,1,"a photo of a dog walking on a path",0,0
+110,251,75,40,2,"a photo of a woman riding a bike",0,0
+275,196,42,87,1,"a photo of a person walking down the street",0,0
+196,192,29,58,1,"a photo of a person in a white shirt and blue shorts",0,0
+126,223,37,65,1,"a photo of a person riding a bike",0,0
+208,196,34,59,1,"a photo of a person in a swimming suit",0,0
+564,150,30,49,1,"a photo of a football player on the field",0,0
+185,197,28,56,1,"a photo of a person in a cage",0,0
+521,180,55,25,15,"a photo of a dog with a green frame",0,0
+550,152,21,42,1,"a photo of a man in a green frame",0,0

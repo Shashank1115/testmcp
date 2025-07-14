@@ -1,0 +1,14 @@
+632,210,12,30,1,"a photo of a person walking down a street",0,0
+350,357,19,48,1,"a photo of a man in a white shirt and black pants",0,0
+523,242,17,26,1,"a photo of a person on a motorcycle",0,0
+185,479,31,36,2,"a photo of a man in a suit and tie walking down the street",0,0
+355,394,15,36,1,"a photo of a green frame with a pink and white border",0,0
+91,478,29,61,1,"a photo of a man and woman kissing",0,0
+216,449,28,57,1,"a photo of a man in a white shirt and black pants",0,0
+196,448,25,58,1,"a photo of a person in a car",0,0
+462,255,17,29,1,"a photo of a person with a dog",0,0
+165,469,27,71,1,"a photo of a man in a white shirt and black pants",0,0
+182,443,22,58,1,"a photo of a person in a white shirt and black pants",0,0
+97,509,28,31,1,"a photo of a woman in a black shirt",0,0
+461,274,17,30,1,"a photo of a person in a green box",0,0
+563,237,17,27,1,"a photo of a white cloud with the words  ' i ' m a girl '",0,0

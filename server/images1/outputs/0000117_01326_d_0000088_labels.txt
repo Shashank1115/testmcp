@@ -1,0 +1,18 @@
+647,470,25,50,1,"a photo of a man in a baseball uniform",0,0
+388,84,25,26,10,"a photo of a bright light in the dark",0,0
+151,296,72,39,3,"a photo of a person in a dark room",0,0
+934,384,17,36,1,"a photo of a person with a red light on their face",0,0
+429,380,157,83,8,"a photo of a police car and a police car",0,0
+322,249,44,31,3,"a photo of a blurry image of a city",0,0
+155,226,54,30,3,"a photo of a person with a red shirt",0,0
+47,442,86,90,3,"a photo of a car in the dark",0,0
+476,244,42,26,3,"a photo of a person in a room",0,0
+331,367,106,63,3,"a photo of a car with a green arrow on it",0,0
+605,263,58,42,3,"a photo of a car in the middle of a room",0,0
+417,189,20,23,10,"a photo of a cross on a red background",0,0
+418,383,115,82,3,"a photo of a van parked in a parking",0,0
+278,157,16,14,10,"a photo of a green door with a light coming through it",0,0
+9,105,22,30,10,"a photo of a cross on a red background",0,0
+256,330,83,54,3,"a photo of a car with a green light on it",0,0
+599,468,26,45,1,"a photo of a man in a suit and tie",0,0
+807,446,142,76,3,"a photo of a car driving down a street",0,0

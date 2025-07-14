@@ -1,0 +1,7 @@
+1043,544,200,88,3,"a photo of a car parked on a street",0,0
+1002,421,199,89,3,"a photo of a car parked in a parking",0,0
+452,739,224,26,3,"a photo of a person with a camera",0,0
+725,220,117,147,3,"a photo of a white car parked on a parking lot",0,0
+1109,683,220,82,3,"a photo of a car parked in a parking",0,0
+972,98,117,77,3,"a photo of a man in a suit and tie standing next to a car",0,0
+964,17,147,72,3,"a photo of a red and black diamond",0,0

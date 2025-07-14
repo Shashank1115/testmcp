@@ -1,0 +1,20 @@
+201,427,102,103,3,"a photo of a white car with blue stripes",0,0
+463,133,15,17,3,"a photo of a blury background with a blury effect",0,0
+306,244,16,22,4,"a photo of a blurry image of a person",0,0
+574,256,17,15,4,"a photo of a blur background with a blur effect",0,0
+578,230,12,20,1,"a photo of a person in the dark",0,0
+553,475,23,47,1,"a photo of a man in a white shirt",0,0
+348,237,12,22,1,"a photo of a green and white car",0,0
+465,122,13,10,3,"a photo of a blury background with a blury effect",0,0
+349,245,12,19,4,"a photo of a green truck with a white and blue logo",0,0
+212,273,15,23,1,"a photo of a person in the dark",0,0
+154,251,41,36,3,"a photo of a white dog in the grass",0,0
+311,227,10,17,1,"a photo of a soccer field with a ball",0,0
+267,276,19,27,4,"a photo of a street with a green sign",0,0
+555,224,13,20,4,"a photo of a person standing in the water",0,0
+556,217,12,23,1,"a photo of a green box with a black and white image",0,0
+204,293,22,25,4,"a photo of a green arrow on a black background",0,0
+510,215,10,25,1,"a photo of a person with a camera",0,0
+574,206,32,25,3,"a photo of a car with the words  ' the best car in the world '",0,0
+256,259,35,18,28,"a photo of a woman in a pink dress",0,0
+562,340,18,31,1,"a photo of a man sitting at a table",0,0

@@ -1,0 +1,13 @@
+355,495,15,28,1,"a photo of a person with a black hat",0,0
+121,292,53,24,28,"a photo of a man in a suit and tie",0,0
+566,439,13,31,1,"a photo of a person with a hat on",0,0
+312,362,42,35,3,"a photo of a man in a suit and tie",0,0
+250,518,57,22,3,"a photo of a man with a beard and a white shirt",0,0
+370,295,27,28,3,"a photo of a man in a suit and tie",0,0
+406,253,19,20,3,"a photo of a car with a blur effect",0,0
+295,397,66,43,3,"a photo of a car with a green arrow on it",0,0
+341,318,42,39,3,"a photo of a car with a green arrow on the side",0,0
+514,442,12,31,1,"a photo of a person with a red background",0,0
+88,382,16,26,1,"a photo of a person in the fog",0,0
+131,326,11,26,1,"a photo of a blurry image of a person",0,0
+435,247,24,18,3,"a photo of a person with a green face",0,0

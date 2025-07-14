@@ -1,0 +1,4 @@
+520,381,156,377,1,"a photo of a young girl walking down a street",0,0
+261,3,455,234,3,"a photo of a car parked in a parking",0,0
+1,154,582,604,3,"a photo of a woman in a dress standing next to a car",0,0
+725,159,400,439,3,"a photo of a car parked on a street",0,0

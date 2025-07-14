@@ -1,0 +1,27 @@
+441,772,249,197,3,"a photo of a car driving down a street",0,0
+933,642,42,92,1,"a photo of a cyclist on a bike",0,0
+618,552,57,20,28,"a photo of a woman in a blue dress",0,0
+1071,736,49,60,2,"a photo of a person riding a bike",0,0
+1253,778,52,179,1,"a photo of a man walking a dog",0,0
+1188,754,30,68,2,"a photo of a person riding a bike",0,0
+1181,695,49,116,1,"a photo of a person riding a bike",0,0
+661,597,28,64,1,"a photo of a person on a skateboard",0,0
+938,691,30,55,2,"a photo of a man riding a bike",0,0
+342,959,364,119,3,"a photo of a car with a green screen",0,0
+773,554,65,39,3,"a photo of a man in a suit and tie",0,0
+788,770,207,189,3,"a photo of a car with a broken windshield",0,0
+794,591,114,49,3,"a photo of a car driving down a street",0,0
+989,705,34,58,2,"a photo of a police car driving down a street",0,0
+1079,583,26,63,1,"a photo of a man and woman walking down a sidewalk",0,0
+651,617,26,43,2,"a photo of a person walking down the street",0,0
+397,631,230,88,3,"a photo of a car being towed by a tow truck",0,0
+678,559,46,38,3,"a photo of a car with the words ' the green line '",0,0
+680,637,268,86,3,"a photo of a car with a green box on the front",0,0
+1069,655,43,87,1,"a photo of a man in a black shirt and jeans",0,0
+398,720,48,59,2,"a photo of a man riding a bike",0,0
+1230,901,56,69,18,"a photo of a dog with a green square frame",0,0
+820,962,361,117,3,"a photo of a car driving down a road",0,0
+983,660,49,96,1,"a photo of a person riding a bike",0,0
+1112,630,191,87,3,"a photo of a man in a car",0,0
+988,705,34,58,2,"a photo of a man in a green shirt",0,0
+956,482,21,44,10,"a photo of a green light in the dark",0,0

@@ -1,0 +1,15 @@
+393,273,23,24,3,"a photo of a laptop computer",0,0
+110,509,17,30,1,"a photo of a person with a cell",0,0
+142,417,12,24,1,"a photo of a black and white cat",0,0
+270,401,41,42,3,"a photo of a car with the word ' t ' on it",0,0
+129,514,17,26,1,"a photo of a green text that reads  ' the word is in the middle of the image",0,0
+287,460,63,79,3,"a photo of a white car parked in a parking",0,0
+197,524,52,16,3,"a photo of a man with a beard and a beard",0,0
+212,446,74,62,3,"a photo of a car with a green roof",0,0
+391,425,53,72,3,"a photo of a car with the words ' ' ' ' ' ' ' ' ' ' ' ' ' ' '",0,0
+508,477,15,36,1,"a photo of a blurry image of a person",0,0
+96,510,18,30,1,"a photo of a green box with a black background",0,0
+341,352,35,33,3,"a photo of a man in a suit and tie",0,0
+377,111,10,14,10,"a photo of a red and blue background",0,0
+471,354,35,34,3,"a photo of a car with a green light on it",0,0
+448,241,23,18,3,"a photo of a blury background",0,0

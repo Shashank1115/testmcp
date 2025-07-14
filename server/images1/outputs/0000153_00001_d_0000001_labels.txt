@@ -1,0 +1,20 @@
+499,282,42,32,3,"a photo of a car with a blur effect",0,0
+467,211,14,12,3,"a photo of a car with a blur effect",0,0
+211,391,25,48,1,"a photo of a man riding a bike",0,0
+606,307,18,29,1,"a photo of a dog laying on the ground",0,0
+377,243,13,27,1,"a photo of a person walking down the street",0,0
+791,351,98,72,3,"a photo of a white car parked in a parking",0,0
+634,231,27,20,3,"a photo of a black and white photo of a person",0,0
+368,384,77,81,3,"a photo of a white car driving on a road",0,0
+570,278,19,17,4,"a photo of a red car with green letters",0,0
+247,372,30,39,1,"a photo of a man in a white shirt and black pants",0,0
+269,265,36,24,3,"a photo of a black and white cat",0,0
+177,306,65,50,3,"a photo of a white car with a green trunk",0,0
+606,319,18,22,4,"a photo of a dog in a green frame",0,0
+238,281,44,32,3,"a photo of a dog in a window",0,0
+212,417,22,38,2,"a photo of a person walking down a street",0,0
+672,337,17,31,1,"a photo of a man in a suit and tie",0,0
+669,349,22,28,4,"a photo of a green square frame",0,0
+674,335,16,27,1,"a photo of a green box with a black and white image",0,0
+544,235,29,22,3,"a photo of a car with the word ' speed ' in green",0,0
+623,294,12,26,1,"a photo of a car with a green light",0,0

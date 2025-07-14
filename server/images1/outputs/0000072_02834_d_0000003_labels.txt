@@ -1,0 +1,6 @@
+345,583,46,69,1,"a photo of a little girl running on a street",0,0
+1004,441,35,76,1,"a photo of a man walking down a street",0,0
+595,470,51,32,2,"a photo of a man riding a bike",0,0
+427,461,44,65,1,"a photo of a person throwing a baseball",0,0
+304,442,39,64,1,"a photo of a man walking across a street",0,0
+710,367,32,66,1,"a photo of a man walking down a street",0,0

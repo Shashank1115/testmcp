@@ -1,0 +1,13 @@
+551,183,45,65,3,"a photo of a car in the parking",0,0
+832,533,43,81,3,"a photo of a car on a road",0,0
+452,261,70,65,3,"a photo of a car that was involved in a crash on the bruce highway in the town of pomonan",0,0
+459,531,109,85,3,"a photo of a white car parked on a street",0,0
+541,265,77,78,3,"a photo of a white car parked in a driveway",0,0
+51,237,95,41,3,"a photo of a car that is parked in the street",0,0
+556,22,54,40,3,"a photo of a police car on the side of a road",0,0
+566,109,40,63,3,"a photo of a car driving down a road",0,0
+734,243,47,61,3,"a photo of a white car on a road",0,0
+735,507,52,90,3,"a photo of a car on a road",0,0
+682,542,48,99,3,"a photo of a car driving down a street",0,0
+84,165,99,45,3,"a photo of a car parked in a parking lot",0,0
+748,41,37,50,3,"a photo of a white car",0,0

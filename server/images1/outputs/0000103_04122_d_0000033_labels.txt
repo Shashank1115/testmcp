@@ -1,0 +1,4 @@
+606,298,35,91,1,"a photo of a woman in a blue dress",0,0
+664,259,40,75,1,"a photo of a man in a wheelchair",0,0
+580,269,31,90,1,"a photo of a person walking down a street",0,0
+665,298,36,84,1,"a photo of a man sitting in a chair",0,0

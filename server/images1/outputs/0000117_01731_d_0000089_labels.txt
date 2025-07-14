@@ -1,0 +1,22 @@
+561,278,167,66,3,"a photo of a police car",0,0
+188,0,20,18,10,"a photo of a cross on a red background",0,0
+1005,468,44,50,1,"a photo of a red car in the dark",0,0
+1131,250,151,66,3,"a photo of a car being towed into a house",0,0
+1134,292,23,49,1,"a photo of a person with a green light",0,0
+1122,297,23,49,1,"a photo of a green square frame with a pink flower",0,0
+1333,84,27,40,10,"a photo of a cross in the middle of a cross",0,0
+528,14,18,29,10,"a photo of a red and white light",0,0
+20,64,16,34,1,"a photo of a person with a black shirt",0,0
+1199,304,150,69,3,"a photo of a car on the road",0,0
+436,471,210,94,3,"a photo of a car driving on a highway",0,0
+0,145,53,69,3,"a photo of a car that is on the road",0,0
+311,44,41,41,3,"a photo of a car in the fog",0,0
+6,25,78,30,3,"a photo of a car in the dark",0,0
+143,296,150,81,3,"a photo of a car on the road",0,0
+989,477,91,59,4,"a photo of a car with a green box on the side",0,0
+1231,389,40,50,1,"a photo of a blurry image of a person on a bike",0,0
+394,162,16,29,1,"a photo of a person with a cell",0,0
+850,329,151,76,3,"a photo of a police car with a red light on the back",0,0
+1056,228,135,57,3,"a photo of a car with a green light",0,0
+848,393,184,85,3,"a photo of a car with a green light",0,0
+96,44,39,27,3,"a photo of a man with a green face",0,0

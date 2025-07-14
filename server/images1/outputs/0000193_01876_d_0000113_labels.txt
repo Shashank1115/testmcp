@@ -1,0 +1,26 @@
+396,298,62,47,3,"a photo of a white car",0,0
+295,315,16,20,1,"a photo of a man in a black and white uniform",0,0
+595,336,18,24,4,"a photo of a man in a white shirt",0,0
+643,262,12,19,1,"a photo of a person with a camera",0,0
+661,377,19,32,1,"a photo of a car driving down a road",0,0
+598,329,13,25,1,"a photo of a green and white logo",0,0
+898,250,62,22,3,"a photo of a dog in the grass",0,0
+780,273,14,23,1,"a photo of a man in a suit and tie",0,0
+885,295,75,38,3,"a photo of a white car on a road",0,0
+315,226,34,28,3,"a photo of a white car",0,0
+648,223,81,39,8,"a photo of a car that is parked in a parking",0,0
+492,304,18,22,4,"a photo of a person sitting on a chair",0,0
+580,250,10,23,1,"a photo of a person walking on a sidewalk",0,0
+412,250,38,27,3,"a photo of a red car with a white light on it",0,0
+282,363,98,39,3,"a photo of a car with a black hood",0,0
+291,186,28,21,3,"a photo of a white car",0,0
+294,321,28,25,4,"a photo of a man in a suit and tie",0,0
+492,486,22,34,2,"a photo of a man riding a motorcycle",0,0
+0,474,82,61,3,"a photo of a white car on a road",0,0
+372,120,14,17,10,"a photo of a cross on a blurry background",0,0
+771,284,24,17,4,"a photo of a person in a green box",0,0
+493,297,14,25,1,"a photo of a person in a green box",0,0
+503,381,84,75,3,"a photo of a white car driving on a road",0,0
+483,261,23,13,28,"a photo of a person standing in front of a pink tree",0,0
+491,470,20,36,1,"a photo of a man in a white shirt",0,0
+484,261,23,11,28,"a photo of a green screen with a pink and white background",0,0

@@ -1,0 +1,15 @@
+58,435,42,21,28,"a photo of a pink flower on a gray background",0,0
+254,511,31,29,1,"a photo of a man in a white shirt",0,0
+479,165,21,20,3,"a photo of a white van",0,0
+343,309,27,21,4,"a photo of a man with a beard and a beard",0,0
+569,209,13,25,10,"a photo of a football player with a helmet on",0,0
+625,428,15,40,1,"a photo of a person in a black shirt",0,0
+483,95,12,11,3,"a photo of a blur background with a blur effect",0,0
+312,499,74,40,3,"a photo of a green car with the words  ' car navigation '",0,0
+490,266,11,25,1,"a photo of a white bowl with a black handle",0,0
+89,394,39,21,28,"a photo of a woman with a pink shirt",0,0
+643,385,39,29,4,"a photo of a room with a table and chairs",0,0
+485,93,13,12,3,"a photo of a green frame with a white background",0,0
+531,337,12,29,1,"a photo of a pink flower on a green background",0,0
+589,302,45,18,28,"a photo of a man in a suit",0,0
+517,206,11,31,10,"a photo of a car with a blur effect",0,0

@@ -1,0 +1,8 @@
+433,244,19,51,1,"a photo of a dog laying on the ground",0,0
+695,214,31,17,15,"a photo of a tree with a blur effect",0,0
+427,244,16,51,1,"a photo of a green frame with a picture of a car",0,0
+734,206,14,19,1,"a photo of a green and black car",0,0
+427,242,17,51,1,"a photo of a green screen with a white background",0,0
+950,207,10,26,1,"a photo of a dog running on a field",0,0
+736,206,14,19,1,"a photo of a green and brown dog",0,0
+706,202,10,15,1,"a photo of a green and pink background",0,0

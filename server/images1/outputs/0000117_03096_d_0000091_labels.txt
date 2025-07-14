@@ -1,0 +1,20 @@
+569,105,23,42,10,"a photo of a cross in the dark",0,0
+1069,344,82,62,3,"a photo of a man in a suit and tie",0,0
+455,333,74,61,3,"a photo of a person with a helmet on",0,0
+564,480,23,49,1,"a photo of a person walking down a street",0,0
+416,464,23,47,1,"a photo of a man with a beard and a beard",0,0
+1153,351,21,49,1,"a photo of a clock with the time on it",0,0
+524,178,23,45,10,"a photo of a cross on a red background",0,0
+872,225,16,29,10,"a photo of a green blur background",0,0
+720,264,49,39,3,"a photo of a car with a blur",0,0
+406,197,60,55,8,"a photo of a car in the dark",0,0
+299,220,139,130,8,"a photo of a car with a green box on the front",0,0
+519,468,22,53,1,"a photo of a person with a green face",0,0
+44,479,175,100,3,"a photo of a police car on the side of a road",0,0
+507,183,20,42,10,"a photo of a person with a green background",0,0
+209,376,101,69,3,"a photo of a car in the dark",0,0
+254,329,16,33,1,"a photo of a black background with a blur effect",0,0
+937,246,37,35,3,"a photo of a car in the middle of the road",0,0
+1084,307,74,41,3,"a photo of a woman in a red dress",0,0
+796,451,82,90,3,"a photo of a car with a red light on it",0,0
+1001,297,68,53,3,"a photo of a police car in the middle school parking",0,0

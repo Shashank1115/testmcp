@@ -1,0 +1,9 @@
+539,241,31,80,1,"a photo of a man being carried by a woman",0,0
+271,249,17,47,1,"a photo of a woman sitting on a bench",0,0
+277,272,56,33,2,"a photo of a woman riding a bike",0,0
+298,260,18,38,1,"a photo of a woman in a pink dress",0,0
+300,261,18,38,1,"a photo of a green frame with a picture of a woman",0,0
+69,239,30,44,1,"a photo of a person walking down a street",0,0
+556,241,28,77,1,"a photo of a person doing a trick",0,0
+574,268,11,15,31,"a photo of a green cross on a black background",0,0
+637,244,20,84,1,"a photo of a dog running on a road",0,0

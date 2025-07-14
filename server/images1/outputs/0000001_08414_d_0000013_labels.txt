@@ -1,0 +1,13 @@
+400,915,164,138,3,"a photo of a car parked in a parking",0,0
+758,821,29,59,1,"a photo of a man riding a bike",0,0
+249,893,73,31,28,"a photo of a pink flaming in the rain",0,0
+1056,469,110,55,3,"a photo of a group of people with umbrellas",0,0
+1047,525,103,82,3,"a photo of a police car parked in a parking",0,0
+656,628,131,105,3,"a photo of a parking lot with cars parked in it",0,0
+618,580,122,90,3,"a photo of two cars parked in a parking",0,0
+395,862,28,65,1,"a photo of a person on a skateboard",0,0
+453,209,88,41,3,"a photo of a white car on a street",0,0
+544,715,157,118,3,"a photo of a car parked in a parking",0,0
+384,718,25,51,1,"a photo of a man walking down the street",0,0
+891,561,117,86,3,"a photo of a police car and a motorcycle",0,0
+1038,431,113,48,3,"a photo of a car being driven by a police officer",0,0

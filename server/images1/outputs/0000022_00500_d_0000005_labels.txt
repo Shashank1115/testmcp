@@ -1,0 +1,18 @@
+384,393,44,118,1,"a photo of a man running in the street",0,0
+564,290,16,30,27,"a photo of a dog with a green background",0,0
+558,284,23,58,1,"a photo of a person laying on the ground",0,0
+517,300,25,55,1,"a photo of a dog with a white face",0,0
+500,166,16,42,1,"a photo of a man walking down the street",0,0
+449,352,31,60,1,"a photo of a man riding a bike",0,0
+481,196,18,46,1,"a photo of a man in a white shirt",0,0
+466,200,14,38,1,"a photo of a baseball player throwing a ball",0,0
+407,301,30,64,1,"a photo of a person riding a bike",0,0
+505,189,16,23,2,"a photo of a green and white building",0,0
+469,142,11,29,1,"a photo of a person riding a motorcycle",0,0
+411,343,15,32,2,"a photo of a person walking down a street",0,0
+446,195,11,24,1,"a photo of a soccer player on a field",0,0
+529,242,15,27,2,"a photo of a blurry street with a car",0,0
+526,217,20,40,1,"a photo of a person sitting on a chair",0,0
+478,253,23,31,2,"a photo of a person in a blue hat",0,0
+499,284,25,69,1,"a photo of a woman in a white shirt and black shorts",0,0
+512,188,17,24,2,"a photo of a cross on a white background",0,0

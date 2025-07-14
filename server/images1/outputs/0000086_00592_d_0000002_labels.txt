@@ -1,0 +1,12 @@
+597,313,32,66,1,"a photo of a young boy playing tennis",0,0
+526,270,23,58,1,"a photo of a man in a wrestling ring",0,0
+218,269,21,69,1,"a photo of a man playing basketball",0,0
+239,428,25,88,1,"a photo of a man and woman dancing",0,0
+666,244,18,59,1,"a photo of a tennis player hitting a ball",0,0
+267,283,22,69,1,"a photo of a woman playing tennis",0,0
+448,325,18,18,43,"a photo of a red and blue background",0,0
+222,445,32,85,1,"a photo of a person in a red room",0,0
+427,309,28,77,1,"a photo of a man playing tennis",0,0
+572,236,18,54,1,"a photo of a man on a boat",0,0
+459,240,19,52,1,"a photo of a man in a black shirt",0,0
+274,443,29,73,1,"a photo of a man in a white shirt and blue jeans",0,0

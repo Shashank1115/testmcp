@@ -1,0 +1,15 @@
+386,133,13,12,3,"a photo of a blurry background",0,0
+443,269,11,25,1,"a photo of a bird flying in the sky",0,0
+492,220,19,19,3,"a photo of a blurry background",0,0
+205,283,27,30,4,"a photo of a car with a blur effect",0,0
+829,455,17,45,1,"a photo of a person in a black shirt",0,0
+421,285,11,27,1,"a photo of a person walking down a street",0,0
+412,230,29,28,3,"a photo of a car in a parking",0,0
+445,306,24,19,28,"a photo of a purple object with a blur effect",0,0
+239,256,26,26,4,"a photo of a red truck with a blur effect",0,0
+440,200,17,23,3,"a photo of a car with a blur effect",0,0
+128,269,38,15,28,"a photo of a white cat with a black background",0,0
+158,287,52,47,4,"a photo of a car with a green arrow",0,0
+493,221,19,19,3,"a photo of a green box with a white background",0,0
+468,192,7,16,1,"a photo of a person with a green shirt",0,0
+451,324,10,23,1,"a photo of a person walking down a street",0,0

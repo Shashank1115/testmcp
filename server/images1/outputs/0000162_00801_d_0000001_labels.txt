@@ -1,0 +1,19 @@
+686,327,114,115,8,"a photo of a truck on a highway",0,0
+206,231,63,66,8,"a photo of a car parked in a parking",0,0
+567,153,15,15,3,"a photo of a blury background",0,0
+615,381,15,29,1,"a photo of a person standing in the snow",0,0
+349,210,36,33,3,"a photo of a white car with a green sign on it",0,0
+387,201,18,25,3,"a photo of a blurry image of a city",0,0
+568,153,14,15,3,"a photo of a green screen with a white background",0,0
+560,179,8,18,1,"a photo of a blurry background",0,0
+391,179,22,20,3,"a photo of a car driving down a street",0,0
+214,321,68,50,3,"a photo of a police car",0,0
+367,176,29,31,8,"a photo of a green square with a white border",0,0
+78,342,119,60,8,"a photo of a house in the middle of a street",0,0
+556,179,8,19,1,"a photo of a green cross on a white background",0,0
+83,309,30,26,3,"a photo of a car that is driving down the road",0,0
+388,200,18,25,3,"a photo of a green square with a white border",0,0
+617,407,15,21,4,"a photo of a green and yellow background",0,0
+508,187,22,26,3,"a photo of a black and white cat",0,0
+545,219,18,26,3,"a photo of a person sitting on a couch",0,0
+523,166,15,24,3,"a photo of a green and white sign",0,0

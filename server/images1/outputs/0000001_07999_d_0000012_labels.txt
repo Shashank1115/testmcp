@@ -1,0 +1,7 @@
+1107,853,24,65,1,"a photo of a man in a white shirt and black pants",0,0
+821,828,56,47,28,"a photo of a man in a suit and tie",0,0
+926,336,88,49,3,"a photo of a white car with a blue stripe",0,0
+1016,285,87,51,3,"a photo of a police car and a police car",0,0
+803,396,88,46,3,"a photo of a car parked on the side of a road",0,0
+914,395,98,59,3,"a photo of a car with a bunch of flowers",0,0
+1013,268,80,44,3,"a photo of a cat with a green frame",0,0

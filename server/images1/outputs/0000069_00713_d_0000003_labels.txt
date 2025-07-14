@@ -1,0 +1,15 @@
+20,179,82,62,4,"a photo of a person riding a bike",0,0
+1015,533,73,212,1,"a photo of a group of kids playing with a skateboard",0,0
+870,115,20,62,1,"a photo of a person walking on a sidewalk",0,0
+52,344,53,116,1,"a photo of a group of children running in a race",0,0
+1236,590,74,174,1,"a photo of a woman walking down a street",0,0
+264,143,31,82,1,"a photo of a person skating on a rink",0,0
+737,45,23,66,1,"a photo of a man standing in the middle of a road",0,0
+470,446,68,175,1,"a photo of a man walking with a child",0,0
+575,35,23,63,1,"a photo of a man walking down a street",0,0
+351,427,87,164,1,"a photo of a young girl on a skateboard",0,0
+73,326,64,130,1,"a photo of a man and a woman walking down a street",0,0
+1014,650,40,96,41,"a photo of a baby in a red shirt and green pants",0,0
+940,198,46,96,1,"a photo of a young boy playing with a ball",0,0
+494,405,57,149,1,"a photo of a man and a woman walking down a street",0,0
+954,533,75,197,1,"a photo of a man in a pink shirt",0,0

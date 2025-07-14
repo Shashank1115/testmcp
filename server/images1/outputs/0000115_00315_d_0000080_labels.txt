@@ -1,0 +1,14 @@
+355,441,14,34,1,"a photo of a person with a camera",0,0
+409,393,14,36,1,"a photo of a man in a suit and tie",0,0
+502,230,12,14,10,"a photo of a red and green background",0,0
+557,463,16,34,1,"a photo of a white object in the dark",0,0
+435,417,16,39,1,"a photo of a red and green field",0,0
+418,291,8,18,1,"a photo of a dark background with a blur effect",0,0
+382,450,68,87,3,"a photo of a car with the words ' the best way to buy a car '",0,0
+531,268,9,19,1,"a photo of a person with a cell",0,0
+519,498,15,26,1,"a photo of a red car with a blur effect",0,0
+372,357,44,51,3,"a photo of a white car with a green light",0,0
+446,345,41,61,8,"a photo of a car with the words ' i ' m '",0,0
+443,319,12,27,1,"a photo of a green screen with a blur effect",0,0
+441,98,8,11,10,"a photo of a blur background with a blur effect",0,0
+498,386,45,53,3,"a photo of a car with the words ' don ' t '",0,0

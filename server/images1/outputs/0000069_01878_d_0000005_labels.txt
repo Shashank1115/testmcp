@@ -1,0 +1,17 @@
+217,523,96,191,1,"a photo of a man standing on a roof",0,0
+521,118,30,91,1,"a photo of a person on a skateboard",0,0
+4,554,110,176,1,"a photo of a man on a roof",0,0
+1147,386,65,167,1,"a photo of a man walking on a street",0,0
+1304,290,56,133,1,"a photo of a person riding a skateboard",0,0
+250,110,37,102,1,"a photo of a person on a skateboard",0,0
+80,85,34,86,1,"a photo of a person standing on a street",0,0
+425,108,17,10,41,"a photo of a person walking down the street",0,0
+780,108,26,83,1,"a photo of a woman and a child walking down the street",0,0
+420,46,21,70,1,"a photo of a person skating on a skateboard",0,0
+197,109,40,97,1,"a photo of a man standing on a ledge",0,0
+1127,602,46,86,1,"a photo of a young boy running on a street",0,0
+1124,659,33,31,41,"a photo of a cat walking across a street",0,0
+799,108,29,87,1,"a photo of a person walking down a street",0,0
+1072,90,34,80,1,"a photo of a man walking down a street",0,0
+1001,531,57,144,1,"a photo of a young boy running on the beach",0,0
+1003,336,48,127,1,"a photo of a woman walking down a street",0,0

@@ -1,0 +1,21 @@
+404,136,18,15,3,"a photo of a car with a blur effect",0,0
+585,495,20,44,1,"a photo of a man in a white shirt and black pants",0,0
+575,367,66,53,3,"a photo of a car being towed by a truck",0,0
+580,430,69,69,3,"a photo of a red car driving down a street",0,0
+640,511,69,29,3,"a photo of a man in a suit and tie",0,0
+493,315,16,26,1,"a photo of a man in a white shirt",0,0
+74,468,29,57,1,"a photo of a man sitting on a chair",0,0
+319,203,30,32,3,"a photo of a car in the fog",0,0
+399,295,49,48,3,"a photo of a car on a road",0,0
+384,246,40,35,3,"a photo of a car in the middle of the road",0,0
+493,331,18,24,4,"a photo of a person in a square frame",0,0
+78,464,29,48,1,"a photo of a man sitting on a toilet",0,0
+426,418,48,89,3,"a photo of a green bus on a road",0,0
+391,183,23,21,3,"a photo of a car with a blur effect",0,0
+425,192,29,26,3,"a photo of a man with a green face",0,0
+349,129,18,15,3,"a photo of a car with a blur effect",0,0
+285,243,90,34,3,"a photo of a car being towed by a tow truck",0,0
+514,524,25,16,1,"a photo of a man in a white shirt",0,0
+539,281,61,44,3,"a photo of a green car with a red car in the background",0,0
+477,366,45,62,8,"a photo of a bee hive on a hive box",0,0
+460,137,19,20,3,"a photo of a car with green paint",0,0

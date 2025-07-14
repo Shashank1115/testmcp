@@ -1,0 +1,19 @@
+221,0,21,41,1,"a photo of a man in a white shirt and black pants",0,0
+176,82,26,42,1,"a photo of a person walking down a street",0,0
+1057,218,69,52,1,"a photo of a group of people playing with a dog",0,0
+932,116,23,63,1,"a photo of a young boy running in a race",0,0
+1081,137,35,89,1,"a photo of a young boy running in a parking",0,0
+392,89,26,81,1,"a photo of a couple dancing in the street",0,0
+1106,217,35,41,1,"a photo of a person doing a split",0,0
+1162,469,47,100,1,"a photo of a young boy riding a skateboard",0,0
+634,79,45,30,2,"a photo of a motorcycle with a pink paint job",0,0
+230,53,30,77,1,"a photo of a person skating on a skateboard",0,0
+13,22,33,62,1,"a photo of a person walking down a street",0,0
+959,105,28,80,1,"a photo of a man and woman holding hands",0,0
+586,47,24,61,1,"a photo of a woman in a pink shirt",0,0
+718,84,27,86,1,"a photo of a group of people running in a marathon",0,0
+380,0,210,83,28,"a photo of a yellow umbrella",0,0
+1161,555,28,25,37,"a photo of a green truck with a flower on the side",0,0
+716,85,27,85,1,"a photo of a group of people in a parking",0,0
+972,108,27,81,1,"a photo of a person in a parking",0,0
+755,120,27,87,1,"a photo of a man in a black jacket and jeans",0,0

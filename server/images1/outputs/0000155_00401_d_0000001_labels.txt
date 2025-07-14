@@ -1,0 +1,19 @@
+84,365,31,32,4,"a photo of a person sitting at a table",0,0
+231,446,23,53,1,"a photo of a man in a blue shirt and black pants",0,0
+429,310,19,33,1,"a photo of a car with a red light on it",0,0
+100,423,25,51,1,"a photo of a man sitting on a bench",0,0
+662,345,75,67,3,"a photo of a car driving down a street",0,0
+497,309,18,32,1,"a photo of a person with a green and black background",0,0
+472,262,27,17,28,"a photo of a person with an umbrella",0,0
+363,265,44,38,3,"a photo of a car in a garage",0,0
+211,261,54,41,3,"a photo of a white car",0,0
+493,228,30,32,3,"a photo of a car in the middle of a road",0,0
+479,148,27,20,3,"a photo of a red car with a blur effect",0,0
+236,469,16,50,2,"a photo of a car with a green line on the side",0,0
+382,184,29,25,3,"a photo of a white car with pink lights",0,0
+218,358,23,41,1,"a photo of a man in a white shirt and black pants",0,0
+418,210,32,28,3,"a photo of a car with the hood up",0,0
+368,371,71,81,3,"a photo of a car driving down a road",0,0
+499,258,46,36,3,"a photo of a green car",0,0
+81,154,29,21,3,"a photo of a man in a white shirt",0,0
+472,376,21,36,1,"a photo of a car with the words ' the green '",0,0

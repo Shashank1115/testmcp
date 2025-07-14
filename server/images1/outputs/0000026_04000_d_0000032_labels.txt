@@ -1,0 +1,15 @@
+1188,483,171,87,3,"a photo of a car on a road",0,0
+972,593,134,170,3,"a photo of a car parked on the side of the road",0,0
+1259,727,102,38,3,"a photo of a car with a broken windshield",0,0
+1201,313,67,60,3,"a photo of a car with a broken windshield",0,0
+446,308,154,70,3,"a photo of a car that is parked in a parking lot",0,0
+433,558,171,95,3,"a photo of a car parked on the side of a road",0,0
+965,27,105,113,3,"a photo of a red car in a parking",0,0
+407,667,215,97,3,"a photo of a car parked on the side of a road",0,0
+395,143,165,73,3,"a photo of a car with a black hood",0,0
+293,183,137,75,3,"a photo of a car with a green arrow",0,0
+1222,574,138,82,3,"a photo of a car driving on a road",0,0
+653,18,72,125,3,"a photo of a car driving down a street",0,0
+780,273,169,86,3,"a photo of the suspect ' s vehicle",0,0
+817,418,106,166,3,"a photo of a car parked in a parking",0,0
+874,605,129,158,3,"a photo of two cars parked in a parking",0,0

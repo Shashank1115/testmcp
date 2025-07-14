@@ -1,0 +1,23 @@
+390,239,24,20,3,"a photo of a car with a blur effect",0,0
+167,322,21,41,1,"a photo of a man in a white shirt and black pants",0,0
+776,345,39,40,4,"a photo of a person riding a bike",0,0
+153,260,38,26,3,"a photo of a car with a blur effect",0,0
+737,454,215,85,3,"a photo of a car driving down a street",0,0
+869,380,81,64,4,"a photo of a motorcycle with a green helmet on",0,0
+301,291,17,29,1,"a photo of a car in the fog",0,0
+166,342,20,32,4,"a photo of a person in a green frame",0,0
+834,311,126,58,3,"a photo of a car that is in the middle of the road",0,0
+781,332,25,38,1,"a photo of a person with a green line",0,0
+319,267,13,20,4,"a photo of a person with a black and white face",0,0
+506,228,20,14,3,"a photo of a green light on a wall",0,0
+298,302,20,30,4,"a photo of a person in a green frame",0,0
+64,300,85,44,3,"a photo of a white truck with a red stripe",0,0
+237,305,19,24,4,"a photo of a car with the words ' i ' m '",0,0
+241,294,15,31,1,"a photo of a green box with the word ' s on it",0,0
+412,217,20,19,3,"a photo of a car with a blur effect",0,0
+371,215,16,15,3,"a photo of a person walking down a street",0,0
+831,303,53,23,3,"a photo of a green and black logo",0,0
+435,236,47,63,6,"a photo of a pink car on the road",0,0
+543,253,11,20,1,"a photo of a car with a blur effect",0,0
+281,267,11,25,1,"a photo of a green car in the rain",0,0
+503,260,13,17,4,"a photo of a green car with a white background",0,0

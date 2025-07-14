@@ -1,0 +1,10 @@
+257,457,21,44,1,"a photo of a man in a white shirt",0,0
+486,361,38,35,3,"a photo of a car with a white background",0,0
+481,248,17,14,3,"a photo of a car with the words ' i ' m ' on it",0,0
+442,227,18,24,8,"a photo of a pink car",0,0
+158,343,48,41,8,"a photo of a white truck with a green and black stripe",0,0
+506,262,7,14,1,"a photo of a blury background with a blury effect",0,0
+66,408,77,48,3,"a photo of a car parked in a parking",0,0
+292,300,29,25,8,"a photo of a car with a blur effect",0,0
+483,358,40,37,3,"a photo of a car with the word ' protect ' on it",0,0
+472,306,30,26,3,"a photo of a car with a blur effect",0,0

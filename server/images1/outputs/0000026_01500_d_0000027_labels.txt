@@ -1,0 +1,11 @@
+630,1,182,105,8,"a photo of a police car and a van",0,0
+180,46,178,106,3,"a photo of a car parked in a parking",0,0
+169,0,171,85,3,"a photo of a white car parked in a parking",0,0
+1019,540,191,151,3,"a photo of a parking lot with cars parked in it",0,0
+1098,654,211,110,3,"a photo of a car with a green line",0,0
+462,576,189,186,3,"a photo of a white car parked in a parking",0,0
+378,707,119,58,3,"a photo of a person ' s feet with a green square",0,0
+571,83,22,46,1,"a photo of a dog with a black coat",0,0
+258,162,168,84,3,"a photo of a car with a bunch of flowers on the hood",0,0
+705,77,159,102,3,"a photo of a car with a green line on the side",0,0
+923,441,197,133,3,"a photo of a car parked in a parking",0,0

@@ -1,0 +1,16 @@
+737,483,72,65,3,"a photo of a car parked on a street",0,0
+233,938,142,141,3,"a photo of a woman in a pink dress and a white car",0,0
+943,838,22,60,1,"a photo of a man in a white shirt and black pants",0,0
+1104,258,22,43,1,"a photo of a pink umbrella on a gray background",0,0
+1069,375,21,40,1,"a photo of a dog walking on a sidewalk",0,0
+1248,164,53,36,3,"a photo of a car that is parked on the street",0,0
+1038,155,82,38,3,"a photo of a white car",0,0
+945,837,22,58,1,"a photo of a man in a white shirt",0,0
+1157,149,58,40,3,"a photo of a white car driving down a street",0,0
+818,899,75,167,3,"a photo of a car parked in a parking",0,0
+945,359,46,58,3,"a photo of a car in the parking",0,0
+1187,108,41,29,3,"a photo of a cloud in the sky",0,0
+1097,368,20,46,1,"a photo of a car with the words ' car of the year '",0,0
+132,935,139,135,8,"a photo of a car and a truck",0,0
+1014,308,45,51,3,"a photo of a red car on a road",0,0
+1053,591,63,69,3,"a photo of a car driving down a street",0,0

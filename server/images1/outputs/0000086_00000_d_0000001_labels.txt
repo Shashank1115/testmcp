@@ -1,0 +1,16 @@
+33,351,20,13,43,"a photo of a red background with a green and red background",0,0
+221,420,50,81,1,"a photo of a man sitting on a red floor",0,0
+353,343,32,90,1,"a photo of a man playing tennis",0,0
+353,371,15,14,43,"a photo of a green and blue background",0,0
+172,213,19,53,1,"a photo of a man in a red shirt and yellow pants",0,0
+537,514,46,26,1,"a photo of a man in a green shirt",0,0
+254,340,39,84,1,"a photo of a man playing tennis",0,0
+348,470,47,69,1,"a photo of a man sitting on the floor",0,0
+214,350,30,82,1,"a photo of a man in a red shirt and a green shirt",0,0
+437,251,26,59,1,"a photo of a man in a red shirt and black pants",0,0
+119,391,44,64,1,"a photo of a man sitting on a red carpet",0,0
+397,476,47,63,1,"a photo of a man and woman sitting on a red floor",0,0
+485,246,21,59,1,"a photo of a man in a red shirt and black shorts",0,0
+457,273,30,61,1,"a photo of a man in a white shirt and black pants",0,0
+596,232,22,55,1,"a photo of a man in a black shirt and white pants",0,0
+531,301,35,67,1,"a photo of a man playing basketball",0,0

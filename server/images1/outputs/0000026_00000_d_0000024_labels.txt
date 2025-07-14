@@ -1,0 +1,5 @@
+885,391,216,106,3,"a photo of a car parked in a parking",0,0
+772,83,130,88,3,"a photo of the suspect ' s car",0,0
+838,296,155,95,3,"a photo of a car parked in a parking",0,0
+761,19,121,82,3,"a photo of a car parked in a parking",0,0
+806,198,155,91,3,"a photo of the suspect ' s car",0,0

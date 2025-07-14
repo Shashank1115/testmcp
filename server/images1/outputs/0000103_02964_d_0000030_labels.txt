@@ -1,0 +1,9 @@
+603,356,75,238,1,"a photo of a little girl walking down a sidewalk",0,0
+885,199,380,375,8,"a photo of a woman in a blue dress and a man in a blue suit",0,0
+295,200,174,150,2,"a photo of a pink bike",0,0
+400,321,193,191,4,"a photo of a person on a scoote",0,0
+448,266,95,174,1,"a photo of a man sitting on a motorcycle",0,0
+0,289,106,174,1,"a photo of a woman sitting on a bench",0,0
+397,1,522,156,8,"a photo of a truck with a crane on it",0,0
+677,375,183,260,2,"a photo of a bike with a cover on it",0,0
+887,202,379,373,3,"a photo of a car parked on the side of a road",0,0

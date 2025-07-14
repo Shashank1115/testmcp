@@ -1,0 +1,8 @@
+1086,313,153,112,4,"a photo of a group of people on a street",0,0
+586,7,35,62,1,"a photo of a man in a pink shirt and black pants",0,0
+788,4,32,51,1,"a photo of a man sitting at a table",0,0
+935,117,104,99,4,"a photo of a person riding a motorcycle",0,0
+620,12,33,53,1,"a photo of a man sitting on a bench",0,0
+763,34,61,64,1,"a photo of a person riding a motorcycle",0,0
+865,66,44,55,2,"a photo of a person riding a bike",0,0
+897,458,97,249,1,"a photo of a little girl walking down the street",0,0

@@ -1,0 +1,3 @@
+185,0,33,43,1,"a photo of a person walking on a snow covered ground",0,0
+691,361,77,203,1,"a photo of a little girl walking down the street",0,0
+776,21,312,171,3,"a photo of a car driving down a street",0,0

@@ -60,6 +60,7 @@ You are an intelligent task planner.
     - Also include: "image_path": "path/to/image.jpg"
 - when asked for label use image_label_tool
 - whenever draw boxes is used use image_label_tool
+- whenever task is for images folder use folder_image_label_tool": folder_image_label_tool this as a tool
 
 {{
   "task": "overall task summary",

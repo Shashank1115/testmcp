@@ -1,0 +1,15 @@
+451,195,23,23,3,"a photo of a car with a blur effect",0,0
+709,288,105,38,3,"a photo of a car parked in a parking lot",0,0
+635,449,16,39,1,"a photo of a car driving down a street",0,0
+562,311,14,29,1,"a photo of a blurry image of a car",0,0
+645,303,14,20,1,"a photo of a green and black text",0,0
+424,136,14,14,3,"a photo of a person with a cell",0,0
+389,143,17,18,3,"a photo of a white car with a blur effect",0,0
+162,416,25,45,1,"a photo of a man in a swimming pool",0,0
+426,137,14,14,3,"a photo of a green and white square",0,0
+162,416,26,47,1,"a photo of a green square with the words  ' the future '",0,0
+573,444,21,33,4,"a photo of a car with a blur effect",0,0
+553,280,13,23,1,"a photo of a man in a suit and tie",0,0
+132,318,54,44,3,"a photo of a car driving down a road",0,0
+934,414,26,45,3,"a photo of a car parked in a parking",0,0
+573,425,20,33,1,"a photo of a person in a white shirt",0,0

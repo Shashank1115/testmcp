@@ -1,0 +1,9 @@
+466,236,20,61,1,"a photo of a man playing tennis",0,0
+465,236,21,61,1,"a photo of a man in a blue shirt and shorts",0,0
+294,373,11,10,37,"a photo of a man with a hat on",0,0
+426,250,21,64,1,"a photo of a man playing tennis",0,0
+547,219,23,55,1,"a photo of a man on a red boat",0,0
+358,126,15,50,1,"a photo of a man in a suit and tie",0,0
+204,138,16,44,1,"a photo of a man in a white shirt and black shorts",0,0
+440,161,17,47,1,"a photo of a green and red car",0,0
+506,197,20,51,1,"a photo of a man doing a squat exercise",0,0

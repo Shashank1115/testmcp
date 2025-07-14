@@ -1,0 +1,15 @@
+615,218,25,27,8,"a photo of a car with a blur effect",0,0
+579,241,8,22,1,"a photo of a blury background with a blury background",0,0
+531,363,30,43,3,"a photo of a car with a light on it",0,0
+577,242,8,22,1,"a photo of a green square with a white background",0,0
+553,217,7,16,1,"a photo of a blurry background",0,0
+613,219,24,26,3,"a photo of a green frame with a picture of a man",0,0
+428,316,12,28,1,"a photo of a cloud in the sky",0,0
+460,238,10,19,1,"a photo of a blury background with a blury effect",0,0
+614,44,11,17,10,"a photo of a blury background",0,0
+329,337,81,52,3,"a photo of a police car in the parking",0,0
+312,335,99,53,3,"a photo of a white truck with a green box",0,0
+388,381,12,28,1,"a photo of a green line on a dark background",0,0
+282,304,60,40,3,"a photo of a car that is in the dark",0,0
+461,304,14,29,1,"a photo of a green text that says  ' the word is in the middle of the image",0,0
+503,252,32,29,3,"a photo of a car with red lights",0,0

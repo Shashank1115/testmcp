@@ -1,0 +1,16 @@
+444,918,198,151,3,"a photo of a car parked on a street",0,0
+818,711,57,50,3,"a photo of a car driving on a highway",0,0
+488,860,53,52,2,"a photo of a man riding a bike",0,0
+1042,735,23,44,1,"a photo of a car driving down a road",0,0
+1159,893,91,81,3,"a photo of a car parked in a parking",0,0
+952,741,20,50,1,"a photo of a man walking down a street",0,0
+425,979,186,101,3,"a photo of a car with a green box",0,0
+761,682,39,30,3,"a photo of a car parked in a parking",0,0
+949,754,23,38,4,"a photo of a man in a white shirt",0,0
+619,761,45,35,2,"a photo of a person riding a bike",0,0
+708,726,67,59,3,"a photo of a car with the words ' ' ' ' ' ' ' ' ' ' ' ' ' ' '",0,0
+879,668,40,36,3,"a photo of a car with the word ' stop ' in green",0,0
+900,1036,37,44,1,"a photo of a man in a suit and tie",0,0
+828,663,37,29,3,"a photo of a car with the words ' baked '",0,0
+947,741,21,49,1,"a photo of a green and white car",0,0
+870,981,37,99,1,"a photo of a person riding a bike",0,0

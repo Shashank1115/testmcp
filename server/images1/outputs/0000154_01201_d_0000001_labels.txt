@@ -1,0 +1,19 @@
+302,332,19,20,4,"a photo of a car with a blur effect",0,0
+663,434,17,36,1,"a photo of a car in the middle of a street",0,0
+609,374,12,27,1,"a photo of a man in a white shirt",0,0
+674,357,68,30,3,"a photo of a white car parked in a parking",0,0
+827,417,14,36,1,"a photo of a person in a black shirt and green pants",0,0
+330,299,29,23,3,"a photo of a white car in a parking",0,0
+674,356,70,31,8,"a photo of a car with the words ' the best car in the world '",0,0
+292,416,14,30,1,"a photo of a car driving down a road",0,0
+367,303,29,25,3,"a photo of a car with the words ' drive '",0,0
+288,429,18,29,4,"a photo of a green box with a white background",0,0
+363,275,18,18,3,"a photo of a car in the fog",0,0
+420,283,21,20,3,"a photo of a car with the words ' the truth '",0,0
+194,461,26,38,1,"a photo of a man in a white shirt and black pants",0,0
+457,342,40,34,3,"a photo of a car in a garage",0,0
+548,443,18,28,4,"a photo of a car with a blur effect",0,0
+79,463,30,27,4,"a photo of a car driving down a road",0,0
+663,449,18,27,2,"a photo of a green square frame",0,0
+548,429,18,33,1,"a photo of a person sitting at a table",0,0
+646,403,79,48,3,"a photo of a white car with the words  ' the best way to drive a car is to drive",0,0

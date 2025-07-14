@@ -1,0 +1,17 @@
+110,313,25,49,1,"a photo of a sunset with a tree in the fore",0,0
+690,105,47,48,3,"a photo of a car driving down a street",0,0
+1196,373,159,64,3,"a photo of a car on the road",0,0
+883,409,161,67,3,"a photo of a car with a blue and white stripe",0,0
+374,139,101,52,3,"a photo of a black cat in a car",0,0
+713,4,32,43,3,"a photo of a car in the fog",0,0
+292,261,131,60,3,"a photo of a car with lights on",0,0
+250,210,45,30,3,"a photo of a laptop computer",0,0
+15,283,151,61,3,"a photo of a car with a green arrow on it",0,0
+815,199,20,40,1,"a photo of a man in a suit and tie",0,0
+167,174,22,46,1,"a photo of a person walking down a street",0,0
+106,313,23,49,1,"a photo of a cow in a field",0,0
+517,1,38,33,3,"a photo of a car in the dark",0,0
+525,161,16,39,1,"a photo of a man in a suit and tie",0,0
+756,468,170,88,3,"a photo of a car driving down a road",0,0
+638,43,42,50,3,"a photo of a car in the fog",0,0
+494,526,180,93,3,"a photo of a car on a road",0,0

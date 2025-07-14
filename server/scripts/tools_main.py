@@ -11,6 +11,7 @@ from datetime import datetime, timedelta
 from dateutil import parser as date_parser
 import os.path
 import pytz
+from PIL import Image, ImageDraw
 from google.oauth2.credentials import Credentials
 from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
@@ -30,12 +31,12 @@ from PIL import Image, ImageDraw
 import torch
 detr_processor = DetrImageProcessor.from_pretrained("facebook/detr-resnet-50")
 detr_model = DetrForObjectDetection.from_pretrained("facebook/detr-resnet-50")
+import os
+from PIL import ImageDraw, Image
+import torch
 
-
-# if not os.path.exists(creds_path):
-#     raise FileNotFoundError(f"[ERROR] credentials.json not found at: {creds_path}")
-
-# flow = InstalledAppFlow.from_client_secrets_file(creds_path, SCOPES)
+from server.vlm_handler import generate_caption
+from transformers import DetrImageProcessor, DetrForObjectDetection
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -47,16 +48,18 @@ def run_tool(tool_name, context):
     print(f"[DEBUG] context received: {context}")
     
     tool_map = {
-        "text_generation": text_generation,
-        "email_sender": send_email,
-        "write_file": write_file,
-        "web_search": web_search,
-        "take_screenshot": take_screenshot,
-        "calendar_event_creator": create_event,
-        "webagent": web_search_tool,
-        "image_caption": image_caption_tool,
-        "image_label_tool": image_label_tool,
-    }
+    "text_generation": text_generation,
+    "email_sender": send_email,
+    "write_file": write_file,
+    "web_search": web_search,
+    "take_screenshot": take_screenshot,
+    "calendar_event_creator": create_event,
+    "webagent": web_search_tool,
+    "image_caption": image_caption_tool,
+    "image_label_tool": image_label_tool,
+    "folder_image_label_tool": folder_image_label_tool,  
+}
+
 
     func = tool_map.get(tool_name)
     if func:
@@ -65,36 +68,76 @@ def run_tool(tool_name, context):
     else:
         print(f"[ERROR] Unknown tool: {tool_name}")
         return f"[Error] Unknown tool: {tool_name}"
-# def image_label_tool(context):
-#     print("[DEBUG] image_label_tool invoked")
+def folder_image_label_tool(context):
+  
 
-#     raw_path = context.get("image_path")
-#     base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..", "server"))
-#     image_path = os.path.normpath(os.path.join(base_dir, raw_path))
+    # Load models
+    detr_processor = DetrImageProcessor.from_pretrained("facebook/detr-resnet-50")
+    detr_model = DetrForObjectDetection.from_pretrained("facebook/detr-resnet-50")
 
-#     if not os.path.exists(image_path):
-#         return f"[Error] Image file not found: {image_path}"
+    # ✅ Resolve folder path
+    raw_path = context.get("folder_path") or context.get("image_path")
+    base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))  # up to /server
+    folder_path = os.path.normpath(os.path.join(base_dir, raw_path))
 
-#     image = Image.open(image_path).convert("RGB")
+    if not folder_path or not os.path.isdir(folder_path):
+        return f"[Error] Invalid folder path: {folder_path}"
 
-#     inputs = detr_processor(images=image, return_tensors="pt")
-#     outputs = detr_model(**inputs)
+    supported = (".jpg", ".jpeg", ".png", ".bmp", ".webp")
+    image_files = [f for f in os.listdir(folder_path) if f.lower().endswith(supported)]
 
-#     target_sizes = torch.tensor([image.size[::-1]])
-#     results = detr_processor.post_process_object_detection(outputs, threshold=0.9, target_sizes=target_sizes)[0]
+    if not image_files:
+        return "[Info] No images found in folder."
 
-#     draw = ImageDraw.Draw(image)
+    output_folder = os.path.join(folder_path, "outputs")
+    os.makedirs(output_folder, exist_ok=True)
 
-#     for score, label, box in zip(results["scores"], results["labels"], results["boxes"]):
-#         box = [round(i, 2) for i in box.tolist()]
-#         draw.rectangle(box, outline="green", width=3)
-#         draw.text((box[0], box[1]), detr_model.config.id2label[label.item()], fill="green")
+    for img_file in image_files:
+        full_path = os.path.join(folder_path, img_file)
+        try:
+            image = Image.open(full_path).convert("RGB")
 
-#     output_path = os.path.splitext(image_path)[0] + "_boxed.jpg"
-#     image.save(output_path)
+            # Object detection
+            inputs = detr_processor(images=image, return_tensors="pt")
+            outputs = detr_model(**inputs)
+            target_sizes = torch.tensor([image.size[::-1]])
+            results = detr_processor.post_process_object_detection(
+                outputs, threshold=0.9, target_sizes=target_sizes
+            )[0]
 
-#     print(f"[VLM] Saved labeled image to: {output_path}")
-#     return f"[Success] Labeled image saved at: {output_path}"
+            draw = ImageDraw.Draw(image)
+            label_lines = []
+            for score, label, box in zip(results["scores"], results["labels"], results["boxes"]):
+                if score < 0.3:
+                    continue
+
+                x1, y1, x2, y2 = box.tolist()
+                x, y = round(x1), round(y1)
+                w, h = round(x2 - x1), round(y2 - y1)
+                class_id = label.item()
+                crop = image.crop((x1, y1, x2, y2))
+                caption = generate_caption(crop)
+                safe_caption = caption.replace(",", " ")
+                label_lines.append(f'{x},{y},{w},{h},{class_id},"{safe_caption}",0,0')
+
+                draw.rectangle([x1, y1, x2, y2], outline="green", width=2)
+                draw.text((x, y), safe_caption, fill="green")
+
+            file_stem = os.path.splitext(os.path.basename(img_file))[0]
+            boxed_path = os.path.join(output_folder, f"{file_stem}_boxed.jpg")
+            label_path = os.path.join(output_folder, f"{file_stem}_labels.txt")
+            image.save(boxed_path)
+            with open(label_path, "w", encoding="utf-8") as f:
+                f.write("\n".join(label_lines))
+
+            print(f"✅ Processed {img_file}")
+
+        except Exception as e:
+            print(f"[Error] Failed to process {img_file}: {str(e)}")
+
+    return f"[Success] Processed {len(image_files)} images from {folder_path}. Output at: {output_folder}"
+
+
 def image_label_tool(context):
     print("[DEBUG] image_label_tool invoked")
 
@@ -107,9 +150,9 @@ def image_label_tool(context):
 
     image = Image.open(image_path).convert("RGB")
 
+    # Object Detection
     inputs = detr_processor(images=image, return_tensors="pt")
     outputs = detr_model(**inputs)
-
     target_sizes = torch.tensor([image.size[::-1]])
     results = detr_processor.post_process_object_detection(outputs, threshold=0.9, target_sizes=target_sizes)[0]
 
@@ -124,20 +167,23 @@ def image_label_tool(context):
         x, y = round(x1), round(y1)
         w, h = round(x2 - x1), round(y2 - y1)
         class_id = label.item()
-        custom_label_id = 4  # Customize this as needed
-        flag1, flag2 = 0, 0
+        class_name = detr_model.config.id2label[class_id].replace(",", " ")  # remove commas if any
+        flag1, flag2 = 4, 0
 
-        label_lines.append(f"{x},{y},{w},{h},{class_id},{custom_label_id},{flag1},{flag2}")
+        # Save label line with class name
+        label_lines.append(f'{x},{y},{w},{h},{class_id},"{class_name}",{flag1},{flag2}')
+
+        # Draw on image
         draw.rectangle([x1, y1, x2, y2], outline="green", width=3)
-        draw.text((x, y), detr_model.config.id2label[class_id], fill="green")
+        draw.text((x, y), f"{class_name} ({class_id})", fill="green")
 
-    # Save boxed image
+    # Save output image
     output_path = os.path.splitext(image_path)[0] + "_boxed.jpg"
     image.save(output_path)
 
-    # Save label coordinates to .txt
+    # Save label file
     label_txt_path = os.path.splitext(image_path)[0] + "_labels.txt"
-    with open(label_txt_path, "w") as f:
+    with open(label_txt_path, "w", encoding="utf-8") as f:
         f.write("\n".join(label_lines))
 
     print(f"[VLM] Saved labeled image to: {output_path}")

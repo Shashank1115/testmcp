@@ -1,0 +1,10 @@
+150,350,60,29,15,"a photo of a dog on a bench",0,0
+461,289,19,52,1,"a photo of a man in a black shirt and green hat",0,0
+421,287,20,58,1,"a photo of a dog on a skateboard",0,0
+240,319,28,45,1,"a photo of a man in a baseball uniform",0,0
+382,292,20,49,1,"a photo of a baseball player throwing a ball",0,0
+239,324,33,49,1,"a photo of a white cat in a green frame",0,0
+442,289,19,55,1,"a photo of a car with the words ' the green '",0,0
+204,317,22,44,1,"a photo of a person on a horse",0,0
+185,323,31,48,1,"a photo of a group of people sitting on a bench",0,0
+223,331,19,35,1,"a photo of a green cross on a black background",0,0

@@ -1,0 +1,6 @@
+410,243,14,39,1,"a photo of a car driving down a road",0,0
+419,234,16,45,1,"a photo of a person walking down a street",0,0
+446,232,13,36,1,"a photo of a person with a green light on their face",0,0
+632,210,12,29,1,"a photo of a green and black background",0,0
+424,233,16,46,1,"a photo of a person in a green frame",0,0
+575,223,11,29,1,"a photo of a green and black background",0,0

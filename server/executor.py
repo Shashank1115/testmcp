@@ -46,6 +46,10 @@ def run_executor(user_task):
             # Inject generated email content if sending email
             if tool == "email_sender" and "text_generation" in generated_outputs:
                 subtask["email_content"] = generated_outputs["text_generation"]
+            # Fix image_path -> folder_path if needed
+            if tool == "folder_image_label_tool" and "image_path" in subtask:
+                subtask["folder_path"] = subtask["image_path"]
+
 
             # Execute the tool
             result = run_tool(tool, context=subtask)

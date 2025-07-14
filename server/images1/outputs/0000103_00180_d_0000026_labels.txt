@@ -1,0 +1,2 @@
+497,168,60,83,27,"a photo of a little girl walking down the street",0,0
+496,127,84,208,1,"a photo of a little girl walking down a sidewalk",0,0

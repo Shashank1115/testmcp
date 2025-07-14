@@ -1,0 +1,15 @@
+226,279,46,30,2,"a photo of a woman riding a bike",0,0
+475,245,23,51,1,"a photo of a man in a white shirt and black pants",0,0
+85,155,23,59,1,"a photo of a soccer field with a ball",0,0
+352,263,37,26,2,"a photo of a man in a suit and tie",0,0
+351,250,17,38,1,"a photo of a green box with a white background",0,0
+234,256,19,35,1,"a photo of a person with a green border",0,0
+33,258,24,58,1,"a photo of a car driving down a street",0,0
+342,250,17,38,1,"a photo of a green cross on a black background",0,0
+478,243,25,52,1,"a photo of a person on a skateboard",0,0
+72,275,26,51,1,"a photo of a man in a white shirt and blue jeans",0,0
+562,247,31,56,1,"a photo of a person walking down a street",0,0
+14,290,56,34,2,"a photo of a dog running on a road",0,0
+350,250,22,38,1,"a photo of a green screen with a bunch of different pictures",0,0
+485,244,24,51,1,"a photo of a man in a green frame",0,0
+512,249,16,43,1,"a photo of a person walking down a street",0,0

@@ -1,0 +1,26 @@
+36,460,590,143,15,"a photo of a man sitting on a bench",0,0
+656,479,20,33,31,"a photo of a pink car parked on the street",0,0
+903,418,176,98,2,"a photo of a bike parked on a bridge",0,0
+1303,0,57,31,3,"a photo of a car parked in a parking lot",0,0
+1305,482,56,138,1,"a photo of a man walking down a sidewalk",0,0
+841,426,79,47,15,"a photo of a man in a black shirt and jeans",0,0
+482,84,30,79,1,"a photo of a man in a black suit",0,0
+1093,135,35,98,1,"a photo of a young girl in a blue dress",0,0
+1128,0,88,23,3,"a photo of a car with a red car in the background",0,0
+622,411,49,156,1,"a photo of a woman standing on a bench",0,0
+275,39,30,79,1,"a photo of a man and a woman in a red shirt",0,0
+944,58,20,66,1,"a photo of a man in a black coat",0,0
+0,515,63,149,1,"a photo of a man sitting on a bench",0,0
+806,103,30,91,1,"a photo of a young boy in a white shirt and brown pants",0,0
+765,14,20,71,1,"a photo of a person riding a skateboard",0,0
+404,48,24,67,1,"a photo of a person standing in the middle of a street",0,0
+650,439,263,91,15,"a photo of a man and woman sitting on a bench",0,0
+937,128,35,82,1,"a photo of a man in a red sweater",0,0
+277,96,33,75,1,"a photo of a person in a red shirt and black pants",0,0
+589,49,21,54,1,"a photo of a man in a suit and tie",0,0
+788,8,63,28,3,"a photo of a woman in a white dress",0,0
+338,70,25,67,1,"a photo of a person in a black shirt and red pants",0,0
+1311,338,33,48,27,"a photo of a man with a beard",0,0
+849,90,43,81,1,"a photo of a person skating on a rink",0,0
+804,403,84,157,1,"a photo of a man sitting on a bench",0,0
+756,422,52,131,1,"a photo of a young boy sitting on a bench",0,0

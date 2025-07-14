@@ -1,0 +1,12 @@
+451,343,22,53,1,"a photo of a man in a red shirt",0,0
+214,419,24,33,62,"a photo of a green truck with a red and white stripe",0,0
+848,407,32,68,1,"a photo of a man playing tennis",0,0
+846,432,18,27,43,"a photo of a man with a green line",0,0
+542,357,22,47,1,"a photo of a horse racing on a track",0,0
+332,329,19,54,1,"a photo of a man on a red boat",0,0
+87,495,39,45,1,"a photo of two people hugging in a room",0,0
+434,308,21,51,1,"a photo of a man on a surfboard",0,0
+401,522,27,18,1,"a photo of a woman with a white shirt",0,0
+518,349,22,40,1,"a photo of a man in a red shirt",0,0
+281,298,16,44,1,"a photo of a man in a swimming suit",0,0
+504,371,24,48,1,"a photo of a person on a skateboard",0,0

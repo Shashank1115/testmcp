@@ -1,0 +1,16 @@
+434,179,7,15,1,"a photo of a car with a blur effect",0,0
+369,218,7,20,1,"a photo of a blurry background",0,0
+691,354,193,183,8,"a photo of a street with a bunch of garbage trucks",0,0
+766,422,119,117,8,"a photo of a red tractor with a green background",0,0
+499,178,7,17,1,"a photo of a green and white car",0,0
+435,115,11,8,3,"a photo of a white and gray background",0,0
+494,128,11,10,3,"a photo of a blurry background",0,0
+367,254,11,25,1,"a photo of a person standing in the fog",0,0
+162,276,56,34,3,"a photo of a white car in a parking lot",0,0
+396,178,18,18,3,"a photo of a car with a blur effect",0,0
+307,263,13,23,1,"a photo of a green and white building",0,0
+463,129,11,10,3,"a photo of a blur background with a blur effect",0,0
+144,372,80,76,3,"a photo of a car driving down a street",0,0
+436,179,7,15,1,"a photo of a green screen with a white background",0,0
+465,129,11,11,3,"a photo of a green and white background",0,0
+497,177,7,17,1,"a photo of a green cross on a gray background",0,0

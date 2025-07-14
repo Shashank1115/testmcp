@@ -1,0 +1,7 @@
+1067,527,18,40,1,"a photo of a car in the snow",0,0
+808,1020,25,57,1,"a photo of a man in a white shirt",0,0
+922,554,22,42,1,"a photo of a person riding a bike",0,0
+1008,845,28,58,1,"a photo of a little girl in a white dress",0,0
+998,468,17,44,1,"a photo of a man in a white shirt",0,0
+1034,553,22,44,1,"a photo of a man in a white shirt and black pants",0,0
+978,956,78,123,3,"a photo of a car on a highway",0,0

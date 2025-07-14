@@ -1,0 +1,15 @@
+791,510,98,91,3,"a photo of a group of cars parked on the street",0,0
+1578,788,35,35,64,"a photo of a car that is parked on the street",0,0
+1394,686,76,84,64,"a photo of a car that is parked in the street",0,0
+524,265,81,51,3,"a photo of a car being towed by a truck",0,0
+731,500,94,83,3,"a photo of a car parked in a parking",0,0
+762,401,83,75,3,"a photo of a white car parked in a parking lot",0,0
+690,962,173,117,3,"a photo of a car parked on the street",0,0
+688,284,73,63,3,"a photo of the suspect ' s car",0,0
+439,244,77,49,3,"a photo of a white car with a black and white stripe",0,0
+775,257,71,61,3,"a photo of two cars parked in a parking lot",0,0
+590,142,74,40,3,"a photo of a white car parked in a parking",0,0
+1061,209,47,42,3,"a photo of a red car",0,0
+833,545,92,86,3,"a photo of a car with a green square",0,0
+857,269,68,61,3,"a photo of a car parked in a parking lot",0,0
+939,202,55,43,3,"a photo of a car parked in a parking lot",0,0

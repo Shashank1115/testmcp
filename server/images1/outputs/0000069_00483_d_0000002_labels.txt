@@ -1,0 +1,17 @@
+505,23,24,59,1,"a photo of a man in a red jacket",0,0
+995,512,68,182,1,"a photo of a man walking down a sidewalk",0,0
+485,93,40,83,1,"a photo of a man riding a skateboard",0,0
+510,162,17,15,41,"a photo of a man with a green frame",0,0
+608,538,69,130,1,"a photo of a young boy playing with a stick",0,0
+476,17,22,61,1,"a photo of a man and woman in a gym",0,0
+614,588,59,110,2,"a photo of a man holding a stick",0,0
+457,169,18,13,41,"a photo of a person with a black hat",0,0
+450,113,42,67,1,"a photo of a woman in a white dress",0,0
+905,434,65,161,1,"a photo of a woman walking down a street",0,0
+597,14,20,57,1,"a photo of a person walking on a road",0,0
+757,333,41,118,1,"a photo of a young boy kicking a soccer ball",0,0
+734,488,54,121,1,"a photo of a woman kicking a man",0,0
+767,380,45,88,1,"a photo of a young girl in red pants and white shirt",0,0
+1026,348,52,135,1,"a photo of a person wearing a mask",0,0
+744,508,71,163,1,"a photo of a woman and a man on a skateboard",0,0
+730,67,22,67,1,"a photo of a man in a suit and tie",0,0

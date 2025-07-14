@@ -1,0 +1,21 @@
+71,479,15,35,1,"a photo of a man in a white shirt",0,0
+237,427,18,38,1,"a photo of a man in a white shirt",0,0
+357,257,21,17,3,"a photo of a car with a blur effect",0,0
+424,330,27,25,3,"a photo of a white van with a black hood",0,0
+603,436,13,33,1,"a photo of a plane flying over a body of water",0,0
+524,382,11,25,1,"a photo of a car with a blur effect",0,0
+479,353,12,27,1,"a photo of a man in a white shirt",0,0
+51,502,97,38,3,"a photo of a man in a wheelchair",0,0
+402,279,30,18,3,"a photo of a car in the middle of a road",0,0
+285,379,48,46,3,"a photo of a car in the middle of the road",0,0
+338,319,28,27,3,"a photo of a white van",0,0
+0,392,121,74,3,"a photo of a police vehicle",0,0
+308,345,21,13,28,"a photo of a person holding an umbrella",0,0
+235,439,18,32,2,"a photo of a green square frame",0,0
+220,370,43,36,3,"a photo of a car in the middle of a street",0,0
+456,347,10,23,1,"a photo of a car with a green and white stripe",0,0
+604,453,10,20,2,"a photo of a green square with a black background",0,0
+459,369,12,25,1,"a photo of a green car with a white stripe",0,0
+482,386,12,28,1,"a photo of a person standing in the fog",0,0
+516,343,36,28,3,"a photo of a car with the words ' the green '",0,0
+462,259,16,14,3,"a photo of a green and white text",0,0

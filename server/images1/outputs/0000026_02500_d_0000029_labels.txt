@@ -1,0 +1,15 @@
+905,685,128,80,3,"a photo of a car that is parked on the side of a road",0,0
+473,48,19,47,1,"a photo of a man in a black suit",0,0
+518,86,21,48,1,"a photo of a man in a white shirt",0,0
+1219,493,141,154,3,"a photo of a car driving down a street",0,0
+536,56,20,50,1,"a photo of a person riding a motorcycle",0,0
+442,5,20,46,1,"a photo of a man in a suit and tie",0,0
+515,729,91,36,3,"a photo of a blue and white triangle",0,0
+535,59,21,63,1,"a photo of a man in a suit and tie",0,0
+429,5,23,50,1,"a photo of a man in a parking",0,0
+398,8,23,37,1,"a photo of a man in a white shirt and black pants",0,0
+55,42,31,44,1,"a photo of a man in a blue shirt",0,0
+531,134,120,132,8,"a photo of a large metal tube",0,0
+794,164,144,113,3,"a photo of a car parked in a parking",0,0
+1039,19,155,105,3,"a photo of a white car driving down a street",0,0
+947,0,76,18,3,"a photo of a car driving down a road",0,0

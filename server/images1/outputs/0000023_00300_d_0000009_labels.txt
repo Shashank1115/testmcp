@@ -1,0 +1,15 @@
+578,142,10,22,1,"a photo of a truck with a blur effect",0,0
+513,239,20,50,1,"a photo of a car in the middle of a street",0,0
+588,360,79,59,4,"a photo of a small red and white atv",0,0
+560,153,10,28,1,"a photo of a person walking on a path",0,0
+591,144,11,29,1,"a photo of a truck with a green paint job",0,0
+472,268,22,49,1,"a photo of a man in a white shirt and black pants",0,0
+499,227,17,34,1,"a photo of a person walking down a street",0,0
+473,295,13,28,2,"a photo of a blurry background with a blurry effect",0,0
+538,225,18,37,1,"a photo of a man in a suit and tie",0,0
+528,204,13,33,1,"a photo of a green and black building",0,0
+417,215,82,75,6,"a photo of a police car with a person in the back",0,0
+586,376,51,45,4,"a photo of a motorcycle with a green frame",0,0
+579,189,14,34,1,"a photo of a person in a black suit",0,0
+563,193,15,39,1,"a photo of a person with a green background",0,0
+574,148,12,32,1,"a photo of a green truck with a white stripe",0,0

@@ -1,0 +1,21 @@
+364,206,28,30,3,"a photo of a white van on a road",0,0
+314,183,10,18,1,"a photo of a blury background",0,0
+788,309,75,54,3,"a photo of a car in the middle of a street",0,0
+88,265,57,35,3,"a photo of a car parked in a parking",0,0
+774,370,18,34,1,"a photo of a white shirt with a black and white logo",0,0
+528,214,10,21,1,"a photo of a car with a blur effect",0,0
+344,162,19,18,3,"a photo of a car in a blurry",0,0
+886,332,68,55,3,"a photo of a red car with the words ' ' ' ' ' ' ' ' ' ' ' ' ' '",0,0
+269,185,30,23,3,"a photo of a car parked in a parking",0,0
+533,146,13,15,10,"a photo of a green circle on a brown background",0,0
+786,300,10,15,1,"a photo of a green and black square",0,0
+46,383,23,43,1,"a photo of a black cat on a black background",0,0
+561,146,12,15,10,"a photo of a green car with the word ' s on it",0,0
+245,427,88,112,3,"a photo of a white car in a parking",0,0
+366,146,17,16,3,"a photo of a blury background",0,0
+119,312,21,35,1,"a photo of a person walking on a sidewalk",0,0
+850,381,94,57,3,"a photo of a car with a green arrow pointing to the left",0,0
+767,388,23,27,4,"a photo of a green square frame",0,0
+448,172,21,23,3,"a photo of a green arrow pointing to the left",0,0
+609,216,50,41,3,"a photo of a white car with the words ' ' ' ' ' ' ' ' ' ' ' ' ' '",0,0
+504,146,16,15,10,"a photo of a green light on a black background",0,0

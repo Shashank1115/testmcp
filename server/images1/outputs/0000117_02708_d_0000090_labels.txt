@@ -1,0 +1,22 @@
+681,193,50,33,3,"a photo of a woman in a white dress",0,0
+678,373,104,72,3,"a photo of a car on the side of the road",0,0
+254,443,25,53,1,"a photo of a person with a hat on",0,0
+287,48,14,19,10,"a photo of a cross in the dark",0,0
+1066,396,18,42,1,"a photo of a black and white background",0,0
+720,199,51,31,3,"a photo of a car with the words ' no parking '",0,0
+611,273,99,82,8,"a photo of a truck driving down a highway",0,0
+371,234,54,36,3,"a photo of a foggy sky with a car driving down the road",0,0
+508,50,17,15,10,"a photo of a red light on a black background",0,0
+965,255,68,51,3,"a photo of a car with a blue hood",0,0
+265,721,31,44,1,"a photo of a man with a beard and a beard",0,0
+436,235,61,43,3,"a photo of a car with the words  ` ` '",0,0
+205,485,26,67,1,"a photo of a person with a cell",0,0
+321,363,77,75,3,"a photo of a car parked in a parking",0,0
+1228,233,36,14,28,"a photo of a person with a black background",0,0
+136,549,30,70,1,"a photo of a man in a suit and tie",0,0
+594,233,65,37,3,"a photo of a car with the words ' car '",0,0
+850,228,72,45,3,"a photo of a car in the middle of a street",0,0
+847,225,78,48,8,"a photo of a car in a shop",0,0
+1010,370,20,46,1,"a photo of a person with a black hat",0,0
+924,334,17,40,1,"a photo of a cloud in the sky",0,0
+762,451,22,53,1,"a photo of a blury background with a blury effect",0,0
